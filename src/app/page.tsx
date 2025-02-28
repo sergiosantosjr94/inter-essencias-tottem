@@ -3,7 +3,7 @@ import ButtonHome from "./components/ButtonHome";
 
 export default function Home() {
   return (
-    <div className="h-screen w-screen bg-pink-100 flex items-center justify-center">
+    <div className="w-screen h-screen bg-pink-100 flex items-center justify-center">
       <div className="color-inter w-[900px] rounded-4xl flex flex-col items-center p-6">
         <Image
           src="/logo-alta-web1-white.png"
