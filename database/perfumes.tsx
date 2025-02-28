@@ -80,7 +80,7 @@ export const femininos: IPerfumes[] = [
     title: "212 NYC FEM",
     brand: "Carolina Herrera",
     description:
-      "212 de Carolina Herrera é um perfume Floral Amadeirado Almiscarado Feminino. 212 foi lançada em 1997. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Flor de Laranjeira, Flor de Cáctus, Bergamota e Mandarina. As notas de coração são: Lírio, Frésia, Gardênia, Jasmim, Lírio-do-Vale, Camélia branca, Rosa e Peônia. As notas de fundo são: Almíscar e Sândalo.",
+      "<b>212 de Carolina Herrera</b> é um perfume Floral Amadeirado Almiscarado Feminino. 212 foi lançada em 1997. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Flor de Laranjeira, Flor de Cáctus, Bergamota e Mandarina. As notas de coração são: Lírio, Frésia, Gardênia, Jasmim, Lírio-do-Vale, Camélia branca, Rosa e Peônia. As notas de fundo são: Almíscar e Sândalo.",
     acordes: "/perfumes/feminino/acordes/212-nyc-fem-acordes.png",
     notas: "/perfumes/feminino/notas/212-nyc-fem-notas.png",
   },

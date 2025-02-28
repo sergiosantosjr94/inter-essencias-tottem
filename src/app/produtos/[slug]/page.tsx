@@ -20,7 +20,6 @@ const Produtos = () => {
     perfume = femininos.find((obj) => obj.id == id);
   }
 
-  // Ensure perfume is found before using it
   if (!perfume) {
     return <div>Perfume not found</div>;
   }
@@ -50,7 +49,10 @@ const Produtos = () => {
           <h2 className="text-2xl text-neutral-700 font-bold">
             Sobre a fragância
           </h2>
-          <p className="text-md text-neutral-600">{perfume.description}</p>
+          <div
+            className="text-md text-neutral-600"
+            dangerouslySetInnerHTML={{ __html: perfume.description }}
+          ></div>
         </div>
         <div className="bg-white rounded-3xl mt-2 p-5 flex flex-col items-center space-y-5">
           <h2 className="text-2xl text-neutral-700 font-bold">
