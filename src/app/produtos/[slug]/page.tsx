@@ -10,7 +10,7 @@ import {
 
 const Produtos = () => {
   const slug = useParams();
-  const id = Number(slug.slug);
+  const id: number = Number(slug.slug);
   let perfume: IPerfumes | undefined;
   const category = useSearchParams().get("cat");
 

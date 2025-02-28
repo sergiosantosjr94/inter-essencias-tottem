@@ -41,7 +41,7 @@ export const masculinos: IPerfumes[] = [
     notas: "/perfumes/masculinos/notas/212-vip-notas.png",
   },
   {
-    id: 1,
+    id: 4,
     img: "/perfumes/masculinos/212-men-ch.png",
     title: "212 Men",
     brand: "Carolina Herrera",
@@ -52,7 +52,7 @@ export const masculinos: IPerfumes[] = [
   },
 
   {
-    id: 2,
+    id: 5,
     img: "/perfumes/masculinos/212-sexy-men.png",
     title: "212 Sexy Men",
     brand: "Carolina Herrera",
@@ -62,7 +62,7 @@ export const masculinos: IPerfumes[] = [
     notas: "/perfumes/masculinos/notas/212-sexy-notas.png",
   },
   {
-    id: 3,
+    id: 6,
     img: "/perfumes/masculinos/212-vip-men.webp",
     title: "212 Vip men",
     brand: "Carolina Herrera",
