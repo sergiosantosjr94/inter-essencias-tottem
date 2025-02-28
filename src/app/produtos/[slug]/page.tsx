@@ -25,7 +25,6 @@ const Produtos = () => {
     return <div>Perfume not found</div>;
   }
 
-  // const perfume = perfumes.find(obj => obj.id === )
   return (
     <div className="w-screen h-full bg-pink-100 flex">
       <div className="flex flex-col color-inter p-5 rounded-2xl my-5 mx-20 space-y-6">
