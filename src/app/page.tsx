@@ -4,14 +4,14 @@ import ButtonHome from "./components/ButtonHome";
 export default function Home() {
   return (
     <div className="w-screen h-screen bg-pink-100 flex items-center justify-center">
-      <div className="color-inter w-[900px] rounded-4xl flex flex-col items-center p-6">
+      <div className="color-inter rounded-4xl flex flex-col items-center p-6 w-[80%]">
         <Image
           src="/logo-alta-web1-white.png"
           width={400}
           height={400}
           alt="Inter Essencias Logo"
         />
-        <h1 className="text-white font-bold text-3xl p-6">
+        <h1 className="text-white text-center font-bold text-3xl p-6">
           EXPLORE NOSSAS FRAGÂNCIAS
         </h1>
         <p className="text-white text-center">

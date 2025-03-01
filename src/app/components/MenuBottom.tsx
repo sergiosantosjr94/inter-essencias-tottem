@@ -13,8 +13,8 @@ const MenuBottom = () => {
   const classActive = "color-inter text-white";
 
   return (
-    <div className="fixed bottom-0 w-[98%] mx-5 ">
-      <div className="flex justify-evenly bg-white space-x-10 py-2 rounded-4xl ">
+    <div className="fixed bottom-0 w-[98%] mx-5 z-50">
+      <div className="flex justify-evenly bg-white space-x-10 py-2 rounded-4xl">
         <button onClick={() => router.push("/")} className={classButtons}>
           <House size={40} />
         </button>

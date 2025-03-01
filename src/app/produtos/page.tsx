@@ -23,8 +23,8 @@ export default function Produtos() {
     router.push(`/produtos/${id}?cat=${params}`);
   };
   return (
-    <div className="flex w-screen justify-center bg-pink-100">
-      <div className="color-inter grid grid-cols-3 gap-4 p-4 rounded-2xl m-4">
+    <div className="flex w-screen h-full justify-center bg-pink-100 mb-10 ">
+      <div className="color-inter grid sm:grid-cols-3 gap-4 p-4 rounded-2xl m-4 grid-cols-1">
         {perfumes!.map((curr) => (
           <div key={curr.id} className="relative">
             <div className="absolute right-7 top-4 text-white color-inter text-md p-1 rounded-xl flex">
