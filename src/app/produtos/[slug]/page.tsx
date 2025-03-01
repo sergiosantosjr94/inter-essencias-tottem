@@ -29,6 +29,14 @@ const Produtos = () => {
       <div className="flex flex-col color-inter p-5 rounded-2xl my-5 mx-20 space-y-6">
         <div className="flex flex-row justify-center text-center flex-wrap">
           <div className="w-[600px]">
+            <div className="relative">
+              <div className="absolute right-20 top-4 text-inter bg-white text-md p-1 rounded-xl flex">
+                <p className="text-xs text-inter">nº</p>
+                <p className="text-4xl font-semibold">
+                  {perfume.id.toString().padStart(2, "0")}
+                </p>
+              </div>
+            </div>
             <Image src={perfume.img} alt="212-vip" width={500} height={500} />
           </div>
           <div className="w-[500px] bg-white rounded-3xl overflow-hidden flex  flex-col items-center ">
@@ -40,8 +48,9 @@ const Produtos = () => {
               className=""
               src={perfume.acordes}
               alt={perfume.title}
-              width={400}
+              width={350}
               height={290}
+              quality={100}
             />
           </div>
         </div>
@@ -60,10 +69,10 @@ const Produtos = () => {
           </h2>
           <Image
             src={perfume.notas}
-            className="text-md text-neutral-600"
+            className="text-md text-neutral-600 h-full w-auto"
             alt={perfume.title}
-            width={500}
-            height={500}
+            width={800}
+            height={100}
           />
         </div>
       </div>

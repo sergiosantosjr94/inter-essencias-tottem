@@ -25,7 +25,7 @@ export default function Produtos() {
   return (
     <div className="flex w-screen justify-center bg-pink-100">
       <div className="color-inter grid grid-cols-3 gap-4 p-4 rounded-2xl m-4">
-        {perfumes.map((curr) => (
+        {perfumes!.map((curr) => (
           <div key={curr.id} className="relative">
             <div className="absolute right-7 top-4 text-white color-inter text-md p-1 rounded-xl flex">
               <p className="text-xs text-white">nº</p>
