@@ -74,8 +74,8 @@ export const masculinos: IPerfumes[] = [
   {
     id: 7,
     img: "/perfumes/masculinos/azzaro.webp",
-    title: "BLEU DE CHANEL",
-    brand: "Chanel",
+    title: "Azzaro Pour Homme",
+    brand: "Azzaro",
     description:
       "Azzaro pour Homme de Azzaro é um perfume Aromático Fougére Masculino. Azzaro pour Homme foi lançada em 1978. Azzaro pour Homme foi criado por Gerard Anthony e Richard Wirtz. As notas de topo são: Lavanda, Limão, Alcarávia, Manjericão, Bergamota, Sálvia Esclaréia, Íris e Anis Estrelado. As notas de coração são: Vetiver, Sândalo, Patchouli, Cedro, Bagas de Zimbro e Cardamomo. As notas de fundo são: Musgo de Carvalho, Couro, Âmbar, Almíscar e Fava Tonka..",
     acordes: "/perfumes/masculinos/acordes/animale-acordes.png",
@@ -400,6 +400,156 @@ export const masculinos: IPerfumes[] = [
       "Acqua di Giò Profondo de Giorgio Armani é um perfume Aromático Fougére Masculino. Acqua di Giò Profondo foi lançada em 2020. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Notas Oceânicas, Aquozone®, Bergamota e Mandarina Verde. As notas de coração são: Alecrim, Lavanda, Cipreste e Lentisco. As notas de fundo são: Notas Minerais, Almíscar, Patchouli e Âmbar.",
     acordes: "/perfumes/masculinos/acordes/aqcua-di-gio-profondo-acordes.png",
     notas: "/perfumes/masculinos/notas/aqcua-di-gio-profondo-notas.png",
+  },
+  {
+    id: 40,
+    img: "/perfumes/masculinos/legend-spirit.webp",
+    title: "Legend Spirt",
+    brand: "Montblanc",
+    description:
+      "Legend Spirit de Montblanc é um perfume Amadeirado Aromático Masculino. Legend Spirit foi lançada em 2016. O perfumista que assina esta fragrância é Olivier Cresp. As notas de topo são: Toranja, Bergamota e Pimenta Rosa. As notas de coração são: Notas Aquáticas, Lavanda e Cardamomo. As notas de fundo são: Almíscar Branco, Madeiras Brancas, Madeira de Cashmere e Musgo de Carvalho.",
+    acordes: "/perfumes/masculinos/acordes/aqcua-di-gio-profondo-acordes.png",
+    notas: "/perfumes/masculinos/notas/aqcua-di-gio-profondo-notas.png",
+  },
+  {
+    id: 41,
+    img: "/perfumes/masculinos/wanted.webp",
+    title: "Wanted",
+    brand: "Azzaro",
+    description:
+      "Wanted de Azzaro é um perfume Amadeirado Especiado Masculino. Wanted foi lançada em 2016. Wanted foi criado por Fabrice Pellegrin e Olivier Cresp. As notas de topo são: Limão, Gengibre, Lavanda e Hortelã. As notas de coração são: Maçã, Cardamomo da Guatemala, Zimbro e Gerânio. As notas de fundo são: Fava Tonka, Madeira de Âmbar e Vetiver do Haiti.",
+    acordes: "/perfumes/masculinos/acordes/wanted-acordes.png",
+    notas: "/perfumes/masculinos/notas/wanted-notas.png",
+  },
+  {
+    id: 42,
+    img: "/perfumes/masculinos/luna-rossa.webp",
+    title: "Luna Rossa",
+    brand: "Prada",
+    description:
+      "Luna Rossa de Prada é um perfume Cítrico Aromático Masculino. Luna Rossa foi lançada em 2012. O perfumista que assina esta fragrância é Daniela Andrier. As notas de topo são: Lavanda e Laranja Amarga. As notas de coração são: Hortelã e Sálvia Esclaréia. As notas de fundo são: Ambreta e Ambroxan.",
+    acordes: "/perfumes/masculinos/acordes/wanted-acordes.png",
+    notas: "/perfumes/masculinos/notas/wanted-notas.png",
+  },
+  {
+    id: 43,
+    img: "/perfumes/masculinos/azzaro.webp",
+    title: "Azzaro Pour Homme",
+    brand: "Azzaro",
+    description:
+      "Azzaro pour Homme de Azzaro é um perfume Aromático Fougére Masculino. Azzaro pour Homme foi lançada em 1978. Azzaro pour Homme foi criado por Gerard Anthony e Richard Wirtz. As notas de topo são: Lavanda, Limão, Alcarávia, Manjericão, Bergamota, Sálvia Esclaréia, Íris e Anis Estrelado. As notas de coração são: Vetiver, Sândalo, Patchouli, Cedro, Bagas de Zimbro e Cardamomo. As notas de fundo são: Musgo de Carvalho, Couro, Âmbar, Almíscar e Fava Tonka..",
+    acordes: "/perfumes/masculinos/acordes/animale-acordes.png",
+    notas: "/perfumes/masculinos/notas/animale-notas.png",
+  },
+  {
+    id: 44,
+    img: "/perfumes/masculinos/black-orchid.webp",
+    title: "Black Orchid",
+    brand: "Tom Ford",
+    description:
+      "Black Orchid de Tom Ford é um perfume Oriental Floral Feminino. Black Orchid foi lançada em 2006. Black Orchid foi criado por David Apel e Pierre Negrin. As notas de topo são: Trufa, Gardênia, Groselha Preta, Ylang Ylang, Jasmim, Bergamota, Mandarina e Limão de Amalfi. As notas de coração são: Orquídea, Especiarias, Gardênia, Notas Frutadas, Ylang Ylang, Jasmim e Lótus. As notas de fundo são: Chocolate mexicano, Patchouli, Baunilha, Incenso, Âmbar, Sândalo, Vetiver e Almíscar Branco.",
+    acordes: "/perfumes/masculinos/acordes/black-orchid-acordes.png",
+    notas: "/perfumes/masculinos/notas/black-orchid-notas.png",
+  },
+  {
+    id: 45,
+    img: "/perfumes/masculinos/aqva-marine.webp",
+    title: "Aqva Marine",
+    brand: "Bvlgari",
+    description:
+      "Aqva Pour Homme Marine de Bvlgari é um perfume Aromático Aquático Masculino. Aqva Pour Homme Marine foi lançada em 2008. O perfumista que assina esta fragrância é Jacques Cavallier Belletrud. As notas de topo são: Toranja, Néroli, Mandarina e Petitgrain. As notas de coração são: Notas Aquáticas, Algas marinhas e Alecrim. As notas de fundo são: Cedro da Virgínia e Âmbar.",
+    acordes: "/perfumes/masculinos/acordes/aqva-marine-acordes.png",
+    notas: "/perfumes/masculinos/notas/aqva-marine-notas.png",
+  },
+  {
+    id: 46,
+    img: "/perfumes/masculinos/emblem.webp",
+    title: "Eblem",
+    brand: "Mont Blanc",
+    description:
+      "Emblem de Montblanc é um perfume Aromático Especiado Masculino. Emblem foi lançada em 2014. Emblem foi criado por Sonia Constant e Olivier Pescheux. As notas de topo são: Sálvia Esclaréia, Toranja e Cardamomo. As notas de coração são: Folha de Violeta e Canela. As notas de fundo são: Fava Tonka e Notas Amadeiradas.",
+    acordes: "/perfumes/masculinos/acordes/emblem-acordes.png",
+    notas: "/perfumes/masculinos/notas/emblem-notas.png",
+  },
+  {
+    id: 47,
+    img: "/perfumes/masculinos/petit-et-mamas.webp",
+    title: "Petits Et Mamas",
+    brand: "Bvlgari",
+    description:
+      "Petits et Mamans de Bvlgari é um perfume Floral Amadeirado Almiscarado. Petits et Mamans foi lançada em 1997. O perfumista que assina esta fragrância é Nathalie Lorson. As notas de topo são: Pau-Rosa, Laranja Siciliana e Bergamota. As notas de coração são: Camomila, Girassol e Rosa. As notas de fundo são: Notas Atalcadas, Baunilha, Íris e Pêssego Branco.",
+    acordes: "/perfumes/masculinos/acordes/petit-et-mamas-acordes.png",
+    notas: "/perfumes/masculinos/notas/petit-et-mamas-notas.png",
+  },
+  {
+    id: 49,
+    img: "/perfumes/masculinos/212-vip-black.webp",
+    title: "212 Vip Black",
+    brand: "Carolina Herrera",
+    description:
+      "212 VIP Black de Carolina Herrera é um perfume Aromático Fougére Masculino. 212 VIP Black foi lançada em 2017. 212 VIP Black foi criado por Carlos Benaïm e Anne Flipo. As notas de topo são: Absinto, Anis e Erva-Doce. A nota de coração é Lavanda. As notas de fundo são: Casca de Baunilha Negra e Almíscar.",
+    acordes: "/perfumes/masculinos/acordes/212-vip-black-acordes.png",
+    notas: "/perfumes/masculinos/notas/212-vip-black-notas.png",
+  },
+  {
+    id: 50,
+    img: "/perfumes/masculinos/purexs.webp",
+    title: "Pure XS",
+    brand: "Paco Rabanne",
+    description:
+      "Pure XS de Rabanne é um perfume Aromático Especiado Masculino. Pure XS foi lançada em 2017. Pure XS foi criado por Anne Flipo, Caroline Dumur e Bruno Jovanovic. As notas de topo são: Gengibre, Tomilho, Toranja, Bergamota e Acorde Verde. As notas de coração são: Baunilha, Licor, Canela, Couro e Maçã. As notas de fundo são: Mirra, Açúcar, Cedro, Notas Amadeiradas, Cashmeran e Patchouli.",
+    acordes: "/perfumes/masculinos/acordes/purexs-acordes.png",
+    notas: "/perfumes/masculinos/notas/purexs-notas.png",
+  },
+  {
+    id: 51,
+    img: "/perfumes/masculinos/leau-dissey.webp",
+    title: "L'eau Dissey Pour Homme",
+    brand: "Issey Miyake",
+    description:
+      "L’Eau d’Issey Pour Homme de Issey Miyake é um perfume Aquático Amadeirado Masculino. L’Eau d’Issey Pour Homme foi lançada em 1994. O perfumista que assina esta fragrância é Jacques Cavallier Belletrud. As notas de topo são: Yuzu, Limão, Bergamota, Lúcia-lima, Mandarina, Cipreste, Calone, Coentro, Estragão e Sálvia. As notas de coração são: Lótus azul, Noz-moscada, Lírio-do-Vale, Gerânio Bourbon, Açafrão, Canela do Ceilão e Resedá. As notas de fundo são: Vetiver do Tahiti, Almíscar, Cedro, Sândalo, Âmbar e Tabaco.",
+    acordes: "/perfumes/masculinos/acordes/leau-dissey-acordes.png",
+    notas: "/perfumes/masculinos/notas/leau-dissey-notas.png",
+  },
+  {
+    id: 52,
+    img: "/perfumes/masculinos/212-vip-black.webp",
+    title: "212 Vip Black",
+    brand: "Carolina Herrera",
+    description:
+      "212 VIP Black de Carolina Herrera é um perfume Aromático Fougére Masculino. 212 VIP Black foi lançada em 2017. 212 VIP Black foi criado por Carlos Benaïm e Anne Flipo. As notas de topo são: Absinto, Anis e Erva-Doce. A nota de coração é Lavanda. As notas de fundo são: Casca de Baunilha Negra e Almíscar.",
+    acordes: "/perfumes/masculinos/acordes/212-vip-black-acordes.png",
+    notas: "/perfumes/masculinos/notas/212-vip-black-notas.png",
+  },
+  {
+    id: 53,
+    img: "/perfumes/masculinos/joop-homme.webp",
+    title: "Joop Homme",
+    brand: "Joop!",
+    description:
+      "Joop! Homme de Joop! é um perfume Oriental Fougére Masculino. Joop! Homme foi lançada em 1989. O perfumista que assina esta fragrância é Michel Almairac. As notas de topo são: Flor de Laranjeira, Mandarina, Bergamota e Limão de Amalfi. As notas de coração são: Canela, Heliotrópio, Jasmim, Cardamomo e Lírio-do-Vale. As notas de fundo são: Baunilha, Fava Tonka, Sândalo, Patchouli, Mel, Tabaco e Vetiver.",
+    acordes: "/perfumes/masculinos/acordes/joop-homme-acordes.png",
+    notas: "/perfumes/masculinos/notas/joop-homme-notas.png",
+  },
+  {
+    id: 54,
+    img: "/perfumes/masculinos/gentleman-only.webp",
+    title: "Gentleman Only",
+    brand: "Givenchy",
+    description:
+      "Gentlemen Only de Givenchy é um perfume Amadeirado Masculino. Gentlemen Only foi lançada em 2013. O perfumista que assina esta fragrância é Jean Jacques. As notas de topo são: Pimenta Rosa, Mandarina Verde, Folha de Vidoeiro, Noz-moscada e Bergamota. As notas de coração são: Vetiver, Cedro, Patchouli, Folha de Violeta e Elemi. As notas de fundo são: Incenso e Almíscar.",
+    acordes: "/perfumes/masculinos/acordes/gentleman-acordes.png",
+    notas: "/perfumes/masculinos/notas/gentleman-notas.png",
+  },
+  {
+    id: 55,
+    img: "/perfumes/masculinos/polo-blue.webp",
+    title: "Polo Blue",
+    brand: "Ralph Lauren",
+    description:
+      "Polo Blue de Ralph Lauren é um perfume Aromático Fougére Masculino. Polo Blue foi lançada em 2003. Polo Blue foi criado por Carlos Benaïm e Christophe Laudamiel. As notas de topo são: Pepino, Melão e Mandarina. As notas de coração são: Manjericão, Sálvia e Gerânio. As notas de fundo são: Camurça, Notas Amadeiradas e Almíscar.",
+    acordes: "/perfumes/masculinos/acordes/polo-blue-acordes.png",
+    notas: "/perfumes/masculinos/notas/polo-blue-notas.png",
   },
 ];
 
