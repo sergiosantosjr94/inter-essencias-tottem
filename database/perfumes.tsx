@@ -322,14 +322,84 @@ export const masculinos: IPerfumes[] = [
     notas: "/perfumes/masculinos/notas/the-one-notas.png",
   },
   {
-    id: 31,
-    img: "/perfumes/masculinos/the-one.webp",
-    title: "The One",
-    brand: "Dolce & Gabanna",
+    id: 32,
+    img: "/perfumes/masculinos/black-xs.webp",
+    title: "Black XS",
+    brand: "Paco Rabanne",
     description:
-      "The One for Men Eau de Parfum de Dolce&Gabbana é um perfume Amadeirado Especiado Masculino. The One for Men Eau de Parfum foi lançada em 2015. O perfumista que assina esta fragrância é Olivier Polge. As notas de topo são: Toranja, Coentro e Manjericão. As notas de coração são: Cardamomo, Gengibre e Flor de Laranjeira. As notas de fundo são: Âmbar, Tabaco e Cedro.",
-    acordes: "/perfumes/masculinos/acordes/the-one-acordes.png",
-    notas: "/perfumes/masculinos/notas/the-one-notas.png",
+      "Black XS (2018) de Rabanne é um perfume Oriental Amadeirado Masculino. Black XS (2018) foi lançada em 2018. Black XS (2018) foi criado por Olivier Cresp e Rosendo Mateu. As notas de topo são: Cítricos, Limão, Sálvia e Tagetes. As notas de coração são: Pralinê, Canela, Bálsamo-de-Tolu e Cardamomo Preto. As notas de fundo são: Patchouli, Âmbar Negro, Árvore de Ébano e Jacarandá.",
+    acordes: "/perfumes/masculinos/acordes/black-xs-acordes.png",
+    notas: "/perfumes/masculinos/notas/black-xs-notas.png",
+  },
+  {
+    id: 33,
+    img: "/perfumes/masculinos/black-xs-lexces.webp",
+    title: "Black XS L'Exces",
+    brand: "Paco Rabanne",
+    description:
+      "Black XS L'Exces for Him de Rabanne é um perfume Amadeirado Aromático Masculino. Black XS L'Exces for Him foi lançada em 2012. O perfumista que assina esta fragrância é Fabrice Pellegrin. As notas de topo são: Limão de Amalfi e Lavanda. As notas de coração são: Nagarmota ou Óleo de Cipriol e Notas Oceânicas. As notas de fundo são: Âmbar e Patchouli.",
+    acordes: "/perfumes/masculinos/acordes/black-xs-lexces-acordes.png",
+    notas: "/perfumes/masculinos/notas/black-xs-lexces-notas.png",
+  },
+  {
+    id: 34,
+    img: "/perfumes/masculinos/kaiak.webp",
+    title: "Kaiak",
+    brand: "Natura",
+    description:
+      "Sobre a fragância Kaiak de Natura é um perfume Aromático Fougére Masculino. Kaiak foi lançada em 1996. O perfumista que assina esta fragrância é Eurico Mazzini. As notas de topo são: Bergamota, Limão de Amalfi, Cassis e Gálbano. As notas de coração são: Flor de Laranjeira Africana, Gerânio, Jasmim, Lírio-do-Vale e Madeiras Transparentes. As notas de fundo são: Musgo de Carvalho, Almíscar, Âmbar e Sândalo.",
+    acordes: "/perfumes/masculinos/acordes/kaiak-acordes.png",
+    notas: "/perfumes/masculinos/notas/kaiak-notas.png",
+  },
+  {
+    id: 35,
+    img: "/perfumes/masculinos/pegasus.webp",
+    title: "Pegasus",
+    brand: "Parfums de Marly",
+    description:
+      "Pegasus de Parfums de Marly é um perfume Oriental Fougére Masculino. Pegasus foi lançada em 2011. O perfumista que assina esta fragrância é Hamid Merati-Kashani. As notas de topo são: Heliotrópio, Cominho e Bergamota. As notas de coração são: Amêndoa Amarga, Lavanda e Jasmim. As notas de fundo são: Baunilha, Sândalo e Âmbar.",
+    acordes: "/perfumes/masculinos/acordes/pegasus-acordes.png",
+    notas: "/perfumes/masculinos/notas/pegasus-notas.png",
+  },
+  {
+    id: 36,
+    img: "/perfumes/masculinos/invictus-aqua.webp",
+    title: "Invictus Aqua",
+    brand: "Paco Rabanne",
+    description:
+      "Invictus Aqua de Rabanne é um perfume Aquático Amadeirado Masculino. Invictus Aqua foi lançada em 2016. As notas de topo são: Yuzu, Toranja e Pimenta Rosa. As notas de coração são: Água do Mar e Folha de Violeta. As notas de fundo são: Âmbar Cinzento, Madeira de Âmbar e Madeira Guaiac.",
+    acordes: "/perfumes/masculinos/acordes/invictus-aqua-acordes.png",
+    notas: "/perfumes/masculinos/notas/invictus-aqua-notas.png",
+  },
+  {
+    id: 37,
+    img: "/perfumes/masculinos/invictus-aqua.webp",
+    title: "Invictus Aqua",
+    brand: "Paco Rabanne",
+    description:
+      "Invictus Aqua de Rabanne é um perfume Aquático Amadeirado Masculino. Invictus Aqua foi lançada em 2016. As notas de topo são: Yuzu, Toranja e Pimenta Rosa. As notas de coração são: Água do Mar e Folha de Violeta. As notas de fundo são: Âmbar Cinzento, Madeira de Âmbar e Madeira Guaiac.",
+    acordes: "/perfumes/masculinos/acordes/invictus-aqua-acordes.png",
+    notas: "/perfumes/masculinos/notas/invictus-aqua-notas.png",
+  },
+  {
+    id: 38,
+    img: "/perfumes/masculinos/night-flight.webp",
+    title: "Night Flight",
+    brand: "JOOP!",
+    description:
+      "Nightflight de Joop! é um perfume Oriental Masculino. Nightflight foi lançada em 1992. As notas de topo são: Abacaxi, Lavanda, Limão, Bergamota, Notas Verdes, Zimbro e Lima. As notas de coração são: Jasmim, Lírio-do-Vale, Pau-Rosa, Gerânio, Rosa e Galium Odoratum. As notas de fundo são: Fava Tonka, Amêndoa, Almíscar, Sândalo e Âmbar..",
+    acordes: "/perfumes/masculinos/acordes/night-flight-acordes.png",
+    notas: "/perfumes/masculinos/notas/night-flight-notas.png",
+  },
+  {
+    id: 39,
+    img: "/perfumes/masculinos/aqcua-di-gio-profondo.webp",
+    title: "Acqua di Gio PROFONDO",
+    brand: "Giorgio Armani",
+    description:
+      "Acqua di Giò Profondo de Giorgio Armani é um perfume Aromático Fougére Masculino. Acqua di Giò Profondo foi lançada em 2020. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Notas Oceânicas, Aquozone®, Bergamota e Mandarina Verde. As notas de coração são: Alecrim, Lavanda, Cipreste e Lentisco. As notas de fundo são: Notas Minerais, Almíscar, Patchouli e Âmbar.",
+    acordes: "/perfumes/masculinos/acordes/aqcua-di-gio-profondo-acordes.png",
+    notas: "/perfumes/masculinos/notas/aqcua-di-gio-profondo-notas.png",
   },
 ];
 
