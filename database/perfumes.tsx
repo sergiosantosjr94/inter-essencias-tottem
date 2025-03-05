@@ -67,9 +67,69 @@ export const masculinos: IPerfumes[] = [
     title: "Animale For Men",
     brand: "Animale",
     description:
-      "O <b>Animale For Man </b> é um perfume importado Animale masculino aromático floral. Possui uma essência picante suave e intrigante que irradia magnetismo, atraindo olhares por onde passa. <br> O Perfume Masculino For Man, de Animale, representa uma ode à natureza com um toque de sofisticação, foi elaborado para o homem que busca exalar sensualidade e masculinidade com um toque de mistério. Suas notas enigmáticas e incomuns o tornam único e inovador, um clássico da perfumaria que te encantará..",
+      "O <b>Animale For Man </b> é um perfume importado Animale masculino aromático floral. Possui uma essência picante suave e intrigante que irradia magnetismo, atraindo olhares por onde passa. <br> O Perfume Masculino For Man, de Animale, representa uma ode à natureza com um toque de sofisticação, foi elaborado para o homem que busca exalar sensualidade e masculinidade com um toque de mistério. Suas notas enigmáticas e incomuns o tornam único e inovador, um clássico da perfumaria que te encantará.",
     acordes: "/perfumes/masculinos/acordes/animale-acordes.png",
     notas: "/perfumes/masculinos/notas/animale-notas.png",
+  },
+  {
+    id: 7,
+    img: "/perfumes/masculinos/azzaro.webp",
+    title: "BLEU DE CHANEL",
+    brand: "Chanel",
+    description:
+      "Azzaro pour Homme de Azzaro é um perfume Aromático Fougére Masculino. Azzaro pour Homme foi lançada em 1978. Azzaro pour Homme foi criado por Gerard Anthony e Richard Wirtz. As notas de topo são: Lavanda, Limão, Alcarávia, Manjericão, Bergamota, Sálvia Esclaréia, Íris e Anis Estrelado. As notas de coração são: Vetiver, Sândalo, Patchouli, Cedro, Bagas de Zimbro e Cardamomo. As notas de fundo são: Musgo de Carvalho, Couro, Âmbar, Almíscar e Fava Tonka..",
+    acordes: "/perfumes/masculinos/acordes/animale-acordes.png",
+    notas: "/perfumes/masculinos/notas/animale-notas.png",
+  },
+  {
+    id: 8,
+    img: "/perfumes/masculinos/bleu-masc.png",
+    title: "Azzaro For Men",
+    brand: "Azzaro",
+    description:
+      "Bleu de Chanel Eau de Parfum de Chanel é um perfume Amadeirado Aromático Masculino. Bleu de Chanel Eau de Parfum foi lançada em 2014. O perfumista que assina esta fragrância é Jacques Polge. As notas de topo são: Toranja, Limão, Hortelã, Bergamota, Pimenta Rosa, Aldeídos e Coentro. As notas de coração são: Gengibre, Noz-moscada, Jasmim e Melão. As notas de fundo são: Incenso, Âmbar, Cedro, Sândalo, Patchouli, Madeira de Âmbar e Ládano.",
+    acordes: "/perfumes/masculinos/acordes/bleu-de-chanel-acordes.png",
+    notas: "/perfumes/masculinos/notas/bleu-de-chanel-acordes",
+  },
+  {
+    id: 9,
+    img: "/perfumes/masculinos/hugo-boss.webp",
+    title: "BOSS",
+    brand: "Hugo Boss",
+    description:
+      "Boss Bottled de Hugo Boss é um perfume Amadeirado Especiado Masculino. Boss Bottled foi lançada em 1998. Boss Bottled foi criado por Annick Menardo e Christian Dussoulier. As notas de topo são: Maçã, Ameixa, Limão, Bergamota, Musgo de Carvalho e Gerânio. As notas de coração são: Canela, Mogno e Cravo. As notas de fundo são: Baunilha, Sândalo, Cedro, Vetiver e Oliveira.",
+    acordes: "/perfumes/masculinos/acordes/hugo-boss-acordes.png",
+    notas: "/perfumes/masculinos/notas/hugo-boss-notas.png",
+  },
+  {
+    id: 10,
+    img: "/perfumes/masculinos/bvlgari-black.png",
+    title: "Bvlgari Black",
+    brand: "Bvlgari",
+    description:
+      "Black de Bvlgari é um perfume Oriental Amadeirado Compartilhável. Black foi lançada em 1998. O perfumista que assina esta fragrância é Annick Menardo. As notas de topo são: Chá Verde, Bergamota e Rosa. As notas de coração são: Sândalo, Cedro e Jasmim. As notas de fundo são: Couro, Baunilha, Âmbar, Almíscar e Musgo de Carvalho.",
+    acordes: "/perfumes/masculinos/acordes/bvlgari-black-acordes.png",
+    notas: "/perfumes/masculinos/notas/bvlgari-black-notas.png",
+  },
+  {
+    id: 11,
+    img: "/perfumes/masculinos/ch-men.webp",
+    title: "CH MEN",
+    brand: "Carolina Herrera",
+    description:
+      "CH Men de Carolina Herrera é um perfume Oriental Especiado Masculino. CH Men foi lançada em 2009. As notas de topo são: Grama, Bergamota e Toranja. As notas de coração são: Notas Amadeiradas, Noz-moscada, Violeta, Açafrão e Jasmim. As notas de fundo são: Açúcar, Couro, Baunilha, Camurça, Âmbar, Madeira de Cashmir, Sândalo, Musgo de Carvalho e Vetiver.",
+    acordes: "/perfumes/masculinos/acordes/ch-men-acordes.png",
+    notas: "/perfumes/masculinos/notas/ch-men-notas.png",
+  },
+  {
+    id: 12,
+    img: "/perfumes/masculinos/ch-men.webp",
+    title: "CH MEN",
+    brand: "Carolina Herrera",
+    description:
+      "CH Men de Carolina Herrera é um perfume Oriental Especiado Masculino. CH Men foi lançada em 2009. As notas de topo são: Grama, Bergamota e Toranja. As notas de coração são: Notas Amadeiradas, Noz-moscada, Violeta, Açafrão e Jasmim. As notas de fundo são: Açúcar, Couro, Baunilha, Camurça, Âmbar, Madeira de Cashmir, Sândalo, Musgo de Carvalho e Vetiver.",
+    acordes: "/perfumes/masculinos/acordes/ch-men-acordes.png",
+    notas: "/perfumes/masculinos/notas/ch-men-notas.png",
   },
 ];
 
