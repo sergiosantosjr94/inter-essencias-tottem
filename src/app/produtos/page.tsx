@@ -33,7 +33,7 @@ export default function Produtos() {
                 {curr.id.toString().padStart(2, "0")}
               </p>
             </div>
-            <div className="flex bg-white rounded-3xl mx-3">
+            <div className="flex bg-white rounded-3xl mx-3 overflow-hidden">
               <div className="flex flex-col items-center space-y-1">
                 <Image
                   src={curr.img}
@@ -41,7 +41,7 @@ export default function Produtos() {
                   width={300}
                   height={300}
                 />
-                <h2 className="font-bold text-2xl text-stone-800">
+                <h2 className="font-bold text-xl text-stone-800">
                   {curr.title.toLocaleUpperCase()}
                 </h2>
                 <p className="">{curr.brand}</p>
