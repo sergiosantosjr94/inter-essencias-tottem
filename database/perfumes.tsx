@@ -551,6 +551,336 @@ export const masculinos: IPerfumes[] = [
     acordes: "/perfumes/masculinos/acordes/polo-blue-acordes.png",
     notas: "/perfumes/masculinos/notas/polo-blue-notas.png",
   },
+  {
+    id: 56,
+    img: "/perfumes/masculinos/ck-be.webp",
+    title: "CK Be",
+    brand: "Calvin Klein",
+    description:
+      "CK be de Calvin Klein é um perfume Floral Amadeirado Almiscarado Compartilhável. CK be foi lançada em 1996. O perfumista que assina esta fragrância é René Morgenthaler. As notas de topo são: Lavanda, Notas Verdes, Bergamota, Hortelã, Zimbro e Mandarina. As notas de coração são: Grama Verde, Jasmim, Pêssego, Frésia, Magnólia e Orquídea. As notas de fundo são: Almíscar, Sândalo, Cedro, Baunilha, Âmbar e Opoponax.",
+    acordes: "/perfumes/masculinos/acordes/ck-be-acordes.png",
+    notas: "/perfumes/masculinos/notas/ck-be-notas.png",
+  },
+  {
+    id: 57,
+    img: "/perfumes/masculinos/lapidus.webp",
+    title: "Lapidus Pour Homme",
+    brand: "Ted Lapidus Paris",
+    description:
+      "Lapidus Pour Homme de Ted Lapidus é um perfume Oriental Masculino. Lapidus Pour Homme foi lançada em 1987. O perfumista que assina esta fragrância é Martin Gras. As notas de topo são: Abacaxi, Lavanda, Artemísia, Bagas de Zimbro, Manjericão, Limão e Bergamota. As notas de coração são: Mel, Incenso, Árvore de Pinheiro, Rosa, Pau-Rosa, Jasmim, Raíz de Orris, Alcarávia, Lírio-do-Vale e Petitgrain. As notas de fundo são: Tabaco, Patchouli, Musgo de Carvalho, Almíscar, Âmbar, Sândalo, Fava Tonka e Cedro.",
+    acordes: "/perfumes/masculinos/acordes/lapidus-acordes.png",
+    notas: "/perfumes/masculinos/notas/lapidus-notas.png",
+  },
+  {
+    id: 59,
+    img: "/perfumes/masculinos/allure-homme.webp",
+    title: "Allure Homme",
+    brand: "Chanel",
+    description:
+      "Allure Homme de Chanel é um perfume Oriental Amadeirado Masculino. Allure Homme foi lançada em 1999. O perfumista que assina esta fragrância é Jacques Polge. As notas de topo são: Limão, Pêssego, Gengibre, Mandarina, Lavanda e Bergamota. As notas de coração são: Pimenta, Cedro, Patchouli, Vetiver, Pau-Rosa, Rosa, Jasmim, Gardênia, Frésia e Anis. As notas de fundo são: Baunilha, Fava Tonka, Sândalo, Coco, Âmbar, Benjoim, Almíscar, Couro e Musgo de Carvalho.",
+    acordes: "/perfumes/masculinos/acordes/allure-home-acordes.png",
+    notas: "/perfumes/masculinos/notas/allure-homme-notas.png",
+  },
+  {
+    id: 60,
+    img: "/perfumes/masculinos/allure-homme-sport.webp",
+    title: "Allure Homme Sport",
+    brand: "Chanel",
+    description:
+      "Allure Homme Sport de Chanel é um perfume Amadeirado Especiado Masculino. Allure Homme Sport foi lançada em 2004. O perfumista que assina esta fragrância é Jacques Polge. As notas de topo são: Laranja, Notas Oceânicas, Aldeídos e Mandarina Sanguínea. As notas de coração são: Pimenta, Néroli e Cedro. As notas de fundo são: Baunilha, Fava Tonka, Almíscar Branco, Âmbar, Vetiver e Resina de Elemi.",
+    acordes: "/perfumes/masculinos/acordes/allure-homme-sport-acordes.png",
+    notas: "/perfumes/masculinos/notas/allure-homme-sport-notas.png",
+  },
+  {
+    id: 61,
+    img: "/perfumes/masculinos/ultra-male.webp",
+    title: "Ultra Male",
+    brand: "Jean Paul Gaultier",
+    description:
+      "Ultra Male de Jean Paul Gaultier é um perfume Oriental Fougére Masculino. Ultra Male foi lançada em 2015. O perfumista que assina esta fragrância é Francis Kurkdjian. As notas de topo são: Pera, Lavanda, Hortelã, Bergamota e Limão. As notas de coração são: Canela, Sálvia Esclaréia e Alcarávia. As notas de fundo são: Casca de Baunilha Negra, Âmbar, Patchouli e Cedro.",
+    acordes: "/perfumes/masculinos/acordes/ultra-male-acordes.png",
+    notas: "/perfumes/masculinos/notas/ultra-male-notas.png",
+  },
+  {
+    id: 62,
+    img: "/perfumes/masculinos/pi.webp",
+    title: "Pi",
+    brand: "Givenchy",
+    description:
+      "Pi de Givenchy é um perfume Oriental Amadeirado Masculino. Pi foi lançada em 1998. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Mandarina, Estragão, Alecrim e Manjericão. As notas de coração são: Anis, Néroli, Gerânio e Lírio-do-Vale. As notas de fundo são: Baunilha, Amêndoa, Fava Tonka, Benjoim e Cedro.",
+    acordes: "/perfumes/masculinos/acordes/pi-acordes.png",
+    notas: "/perfumes/masculinos/notas/pi-notas.png",
+  },
+  {
+    id: 63,
+    img: "/perfumes/masculinos/terre-dhermes.webp",
+    title: "Terre D´Hermès",
+    brand: "Hermès",
+    description:
+      "Pi de Givenchy é um perfume Oriental Amadeirado Masculino. Pi foi lançada em 1998. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Mandarina, Estragão, Alecrim e Manjericão. As notas de coração são: Anis, Néroli, Gerânio e Lírio-do-Vale. As notas de fundo são: Baunilha, Amêndoa, Fava Tonka, Benjoim e Cedro.",
+    acordes: "/perfumes/masculinos/acordes/terre-dhermes-acordes.png",
+    notas: "/perfumes/masculinos/notas/terre-dhermes-notas.png",
+  },
+  {
+    id: 64,
+    img: "/perfumes/masculinos/lacoste-junior.webp",
+    title: "Lacoste Junior",
+    brand: "Lacoste",
+    description:
+      "Eau de Lacoste Junior é um perfume masculino lançado em 1996. A fragrancia é um fougère fresco. com projeção e longevidade acima da média. A produção aparentemente foi discontinuada.",
+    acordes: "/perfumes/masculinos/acordes/lacoste-blanc-acordes.png",
+    notas: "/perfumes/masculinos/notas/lacoste-blanc-notas.png",
+  },
+  {
+    id: 65,
+    img: "/perfumes/masculinos/lacoste-blanc.webp",
+    title: "Lacoste Blanc",
+    brand: "Lacoste",
+    description:
+      "Eau de Lacoste L.12.12 Blanc Limited Edition de Lacoste Fragrances é um perfume Amadeirado Aromático Masculino. Eau de Lacoste L.12.12 Blanc Limited Edition foi lançada em 2014. As notas de topo são: Toranja, Alecrim, Agulhas de Cedro e Cardamomo. As notas de coração são: Ylang Ylang e Tuberosa. As notas de fundo são: Cedro da Virgínia, Vetiver, Couro e Camurça.",
+    acordes: "/perfumes/masculinos/acordes/lacoste-blanc-acordes.png",
+    notas: "/perfumes/masculinos/notas/lacoste-blanc-notas.png",
+  },
+  {
+    id: 66,
+    img: "/perfumes/masculinos/bad-boy.webp",
+    title: "Bad Boy",
+    brand: "Carolina Herrera",
+    description:
+      "Bad Boy de Carolina Herrera é um perfume Oriental Especiado Masculino. Bad Boy foi lançada em 2019. Bad Boy foi criado por Quentin Bisch e Louise Turner. As notas de topo são: Pimenta Branca, Bergamota e Pimenta Rosa. As notas de coração são: Cedro e Sálvia Esclaréia. As notas de fundo são: Fava Tonka e Cacau.",
+    acordes: "/perfumes/masculinos/acordes/bad-boy-acordes.png",
+    notas: "/perfumes/masculinos/notas/bad-boy-notas.png",
+  },
+  {
+    id: 67,
+    img: "/perfumes/masculinos/jazz.webp",
+    title: "Jazz",
+    brand: "Yves Saint Laurent",
+    description:
+      "Jazz de Yves Saint Laurent é um perfume Amadeirado Aromático Masculino. Jazz foi lançada em 1988. O perfumista que assina esta fragrância é Jean-Francois Latty. As notas de topo são: Lavanda, Noz-moscada, Coentro, Artemísia, Anis, Bergamota, Manjericão, Canela e Cardamomo. As notas de coração são: Gerânio, Cravo, Jasmim e Íris. As notas de fundo são: Musgo de Carvalho, Couro, Tabaco, Sândalo, Cedro, Almíscar, Âmbar e Fava Tonka.",
+    acordes: "/perfumes/masculinos/acordes/jazz-acordes.png",
+    notas: "/perfumes/masculinos/notas/jazz-notas.png",
+  },
+  {
+    id: 68,
+    img: "/perfumes/masculinos/aventus.webp",
+    title: "Jazz",
+    brand: "Yves Saint Laurent",
+    description:
+      "Aventus de Creed é um perfume Chipre Frutado Masculino. Aventus foi lançada em 2010. Aventus foi criado por Jean-Christophe Hérault e Erwin Creed. As notas de topo são: Bergamota, Groselha Preta, Maçã, Limão e Pimenta Rosa. As notas de coração são: Abacaxi, Patchouli e Jasmim Marroquino. As notas de fundo são: Vidoeiro, Almíscar, Musgo de Carvalho, Ambroxan e Cedro.",
+    acordes: "/perfumes/masculinos/acordes/aventus-acordes.png",
+    notas: "/perfumes/masculinos/notas/aventus-notas.png",
+  },
+  {
+    id: 69,
+    img: "/perfumes/masculinos/eros-flame.webp",
+    title: "Eros Flame",
+    brand: "Versace",
+    description:
+      "Eros Flame de Versace é um perfume Amadeirado Especiado Masculino. Eros Flame foi lançada em 2018. O perfumista que assina esta fragrância é Olivier Pescheux. As notas de topo são: Mandarina, Pimenta de Madagascar, Limão, Chinotto e Alecrim. As notas de coração são: Gerânio, Rosa e Pepperwood™. As notas de fundo são: Baunilha, Fava Tonka, Sândalo, Cedro do Texas, Patchouli e Musgo de Carvalho.",
+    acordes: "/perfumes/masculinos/acordes/eros-flame-acordes.png",
+    notas: "/perfumes/masculinos/notas/eros-flame-notas.png",
+  },
+  {
+    id: 70,
+    img: "/perfumes/masculinos/polo-red.webp",
+    title: "Polo Red",
+    brand: "Ralph Lauren",
+    description:
+      "Polo Red de Ralph Lauren é um perfume Amadeirado Especiado Masculino. Polo Red foi lançada em 2013. O perfumista que assina esta fragrância é Olivier Gillotin. As notas de topo são: Oxicoco, Toranja e Limão Italiano. As notas de coração são: Açafrão e Sálvia. As notas de fundo são: Âmbar, Café e Notas Amadeiradas.",
+    acordes: "/perfumes/masculinos/acordes/polo-red-acordes.png",
+    notas: "/perfumes/masculinos/notas/polo-red-notas.png",
+  },
+  {
+    id: 71,
+    img: "/perfumes/masculinos/one-million-prive.webp",
+    title: "One Million Privé",
+    brand: "Ralph Lauren",
+    description:
+      "1 Million Privé de Rabanne é um perfume Oriental Amadeirado Masculino. 1 Million Privé foi lançada em 2016. O perfumista que assina esta fragrância é Christophe Raynaud. As notas de topo são: Canela e Mandarina Sanguínea. As notas de coração são: Tabaco e Mirra. As notas de fundo são: Fava Tonka e Patchouli.",
+    acordes: "/perfumes/masculinos/acordes/one-million-prive-acordes.png",
+    notas: "/perfumes/masculinos/notas/one-million-prive-notas.png",
+  },
+  {
+    id: 72,
+    img: "/perfumes/masculinos/eros.webp",
+    title: "Eros",
+    brand: "Versace",
+    description:
+      "Eros de Versace é um perfume Aromático Fougére Masculino. Eros foi lançada em 2012. O perfumista que assina esta fragrância é Aurélien Guichard. As notas de topo são: Hortelã, Maçã Verde e Limão. As notas de coração são: Fava Tonka, Ambroxan e Gerânio. As notas de fundo são: Baunilha de Madagascar, Cedro da Virgínia, Cedro Atlas, Vetiver e Musgo de Carvalho.",
+    acordes: "/perfumes/masculinos/acordes/eros-acordes.png",
+    notas: "/perfumes/masculinos/notas/eros-notas.png",
+  },
+  {
+    id: 73,
+    img: "/perfumes/masculinos/dylan-blue.webp",
+    title: "Dylan Blue",
+    brand: "Versace",
+    description:
+      "Versace Pour Homme Dylan Blue de Versace é um perfume Aromático Fougére Masculino. Versace Pour Homme Dylan Blue foi lançada em 2016. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Bergamota da Calábria, Notas Aquáticas, Toranja e Folha de Figo. As notas de coração são: Ambroxan, Pimenta Preta, Patchouli, Folha de Violeta e Papiro. As notas de fundo são: Incenso, Almíscar, Fava Tonka e Açafrão.",
+    acordes: "/perfumes/masculinos/acordes/dylan-blue-acordes.png",
+    notas: "/perfumes/masculinos/notas/dylan-blue-notas.png",
+  },
+  {
+    id: 74,
+    img: "/perfumes/masculinos/one-million-lucky.webp",
+    title: "One Million Lucky",
+    brand: "Paco Rabanne",
+    description:
+      "One Million Lucky de Rabanne é um perfume Amadeirado Masculino. 1 Million Lucky foi lançada em 2018. O perfumista que assina esta fragrância é Natalie Gracia-Cetto. As notas de topo são: Ameixa, Notas Ozônicas, Toranja e Bergamota. As notas de coração são: Avelã, Mel, Cedro, Madeira de Cashmere, Flor de Laranjeira e Jasmim. As notas de fundo são: Madeira de Âmbar, Patchouli, Vetiver e Musgo de Carvalho.",
+    acordes: "/perfumes/masculinos/acordes/one-million-lucky-acordes.png",
+    notas: "/perfumes/masculinos/notas/one-million-lucky-notas.png",
+  },
+  {
+    id: 75,
+    img: "/perfumes/masculinos/legend.webp",
+    title: "Legend",
+    brand: "Montblanc",
+    description:
+      "Legend de Montblanc é um perfume Aromático Fougére Masculino. Legend foi lançada em 2011. Legend foi criado por Olivier Pescheux e Celine Perdriel. As notas de topo são: Lavanda, Abacaxi, Bergamota e Lúcia-lima. As notas de coração são: Maçã Vermelha, Frutas Secas, Musgo de Carvalho, Gerânio, Cumarina e Rosa. As notas de fundo são: Fava Tonka e Sândalo.",
+    acordes: "/perfumes/masculinos/acordes/legend-acordes.png",
+    notas: "/perfumes/masculinos/notas/legend-notas.png",
+  },
+  {
+    id: 76,
+    img: "/perfumes/masculinos/aqcua-di-gio-absolu.webp",
+    title: "Aqcua di Giò Absolu",
+    brand: "Giorgio Armani",
+    description:
+      "Acqua di Giò Absolu de Giorgio Armani é um perfume Amadeirado Aromático Masculino. Acqua di Giò Absolu foi lançada em 2018. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Notas Oceânicas, Bergamota, Pera, Maçã, Toranja e Limão. As notas de coração são: Lavanda, Alecrim e Gerânio. As notas de fundo são: Notas Amadeiradas, Fava Tonka, Madeira de Âmbar, Patchouli e Ládano.",
+    acordes: "/perfumes/masculinos/acordes/aqcua-di-gio-absolu-acordes.png",
+    notas: "/perfumes/masculinos/notas/aqcua-di-gio-absolu-notas.png",
+  },
+  {
+    id: 78,
+    img: "/perfumes/masculinos/invictus-victory.webp",
+    title: "Invictus Victory",
+    brand: "Paco Rabanne",
+    description:
+      "Invictus Victory de Rabanne é um perfume Oriental Masculino. Invictus Victory foi lançada em 2021. As notas de topo são: Pimenta Rosa e Limão. As notas de coração são: Olíbano e Lavanda. As notas de fundo são: Baunilha, Fava Tonka e Âmbar.",
+    acordes: "/perfumes/masculinos/acordes/invictus-victory-acordes.png",
+    notas: "/perfumes/masculinos/notas/invictus-victory-notas.png",
+  },
+  {
+    id: 79,
+    img: "/perfumes/masculinos/scandal.webp",
+    title: "Scandal",
+    brand: "Jean Paul Gaultier",
+    description:
+      "Scandal Pour Homme de Jean Paul Gaultier é um perfume Oriental Amadeirado Masculino. Scandal Pour Homme foi lançada em 2021. Scandal Pour Homme foi criado por Quentin Bisch, Christophe Raynaud e Natalie Gracia-Cetto. As notas de topo são: Mandarina e Sálvia Esclaréia. As notas de coração são: Caramelo e Fava Tonka. A nota de fundo é Vetiver.",
+    acordes: "/perfumes/masculinos/acordes/scandal-acordes.png",
+    notas: "/perfumes/masculinos/notas/scandal-notas.png",
+  },
+  {
+    id: 80,
+    img: "/perfumes/masculinos/phantom.webp",
+    title: "Phantom",
+    brand: "Paco Rabanne",
+    description:
+      "Phantom de Rabanne é um perfume Amadeirado Aromático Masculino. Phantom foi lançada em 2021. Phantom foi criado por Anne Flipo, Dominique Ropion, Loc Dong e Juliette Karagueuzoglou. As notas de topo são: Lavanda, Raspas de Limão e Limão de Amalfi. As notas de coração são: Lavanda, Notas Terrosas, Maçã, Fumaça e Patchouli. As notas de fundo são: Baunilha, Lavanda e Vetiver.",
+    acordes: "/perfumes/masculinos/acordes/phantom-acordes.png",
+    notas: "/perfumes/masculinos/notas/phantom-notas.png",
+  },
+  {
+    id: 81,
+    img: "/perfumes/masculinos/212-heroes.webp",
+    title: "212 Heroes",
+    brand: "Carolina Herrera",
+    description:
+      "212 Heroes de Carolina Herrera é um perfume Aromático Frutado Masculino. 212 Heroes foi lançada em 2021. 212 Heroes foi criado por Domitille Michalon Bertier, Juliette Karagueuzoglou e Carlos Benaïm. As notas de topo são: Pera, Gengibre e Cannabis. As notas de coração são: Gerânio e Sálvia. As notas de fundo são: Almíscar e Couro.",
+    acordes: "/perfumes/masculinos/acordes/212-heroes-acordes.png",
+    notas: "/perfumes/masculinos/notas/212-heroes-notas.png",
+  },
+  {
+    id: 82,
+    img: "/perfumes/masculinos/ck-one.webp",
+    title: "Ck One",
+    brand: "Calvin Klein",
+    description:
+      "CK One de Calvin Klein é um perfume Cítrico Aromático Compartilhável. CK One foi lançada em 1994. CK One foi criado por Alberto Morillas e Harry Fremont. As notas de topo são: Limão, Notas Verdes, Bergamota, Mandarina, Abacaxi, Cardamomo e Mamão Papaia. As notas de coração são: Lírio-do-Vale, Jasmim, Violeta, Rosa, Noz-moscada, Raíz de Orris e Frésia. As notas de fundo são: Acorde Verde, Almíscar, Cedro, Sândalo, Chá Verde, Musgo de Carvalho e Âmbar.",
+    acordes: "/perfumes/masculinos/acordes/ck-one-acordes.png",
+    notas: "/perfumes/masculinos/notas/ck-one-notas.png",
+  },
+  {
+    id: 83,
+    img: "/perfumes/masculinos/ferrari-black.webp",
+    title: "Ferrari Black",
+    brand: "Scuderia Ferrari",
+    description:
+      "Ferrari Black de Ferrari é um perfume Aromático Fougére Masculino. Ferrari Black foi lançada em 1999. As notas de topo são: Maçã Vermelha, Ameixa, Lima e Bergamota. As notas de coração são: Canela, Jasmim, Rosa e Cardamomo. As notas de fundo são: Baunilha, Âmbar, Cedro e Almíscar.",
+    acordes: "/perfumes/masculinos/acordes/ferrari-black-acordes.png",
+    notas: "/perfumes/masculinos/notas/ferrari-black-notas.png",
+  },
+  {
+    id: 84,
+    img: "/perfumes/masculinos/hugo.webp",
+    title: "Hugo",
+    brand: "Hugo Boss",
+    description:
+      "Hugo de Hugo Boss é um perfume Aromático Verde Masculino. Hugo foi lançada em 1995. O perfumista que assina esta fragrância é Bob Aliano. As notas de topo são: Maçã Verde, Lavanda, Hortelã, Toranja e Manjericão. As notas de coração são: Sálvia, Gerânio, Cravo e Jasmim. As notas de fundo são: Abeto, Cedro e Patchouli.",
+    acordes: "/perfumes/masculinos/acordes/hugo-acordes.png",
+    notas: "/perfumes/masculinos/notas/hugo-notas.png",
+  },
+  {
+    id: 85,
+    img: "/perfumes/masculinos/lhomme-intense.webp",
+    title: "Lhomme Intense",
+    brand: "Prada",
+    description:
+      "Prada L’Homme Intense de Prada é um perfume Oriental Amadeirado Masculino. Prada L’Homme Intense foi lançada em 2017. O perfumista que assina esta fragrância é Daniela Andrier. A nota de topo é Íris. As notas de coração são: Âmbar e Patchouli. As notas de fundo são: Fava Tonka, Couro e Sândalo.",
+    acordes: "/perfumes/masculinos/acordes/hugo-acordes.png",
+    notas: "/perfumes/masculinos/notas/hugo-notas.png",
+  },
+  {
+    id: 86,
+    img: "/perfumes/masculinos/212-men-ch.png",
+    title: "212 Men",
+    brand: "Carolina Herrera",
+    description:
+      "212 Men de Carolina Herrera é um perfume Amadeirado Floral Almiscarado Masculino. 212 Men foi lançada em 1999. 212 Men foi criado por Alberto Morillas, Rosendo Mateu e Ann Gottlieb. As notas de topo são: Notas Verdes, Toranja, Especiarias, Bergamota, Lavanda e Petitgrain. As notas de coração são: Gengibre, Violeta, Gardênia e Sálvia. As notas de fundo são: Almíscar, Sândalo, Incenso, Vetiver, Madeira Guaiac e Ládano.",
+    acordes: "/perfumes/masculinos/acordes/212-men-acordes.png",
+    notas: "/perfumes/masculinos/notas/212-men-notas.png",
+  },
+  {
+    id: 87,
+    img: "/perfumes/masculinos/light-blue-man.webp",
+    title: "Light Blue",
+    brand: "Dolce & Gabbana",
+    description:
+      "Light Blue pour Homme de Dolce&Gabbana é um perfume Cítrico Aromático Masculino. Light Blue pour Homme foi lançada em 2007. As notas de topo são: Toranja, Bergamota, Mandarina Siciliana e Zimbro. As notas de coração são: Pimenta, Alecrim e Pau-Rosa. As notas de fundo são: Almíscar, Incenso e Musgo de Carvalho. Este Perfume é premiado FiFi Award Fragrance Of The Year Men`s Luxe 2008.",
+    acordes: "/perfumes/masculinos/acordes/light-blue-man-acordes.png",
+    notas: "/perfumes/masculinos/notas/light-blue-man-notas.png",
+  },
+  {
+    id: 88,
+    img: "/perfumes/masculinos/aqva-pour-homme.webp",
+    title: "Aqvua Pour Homme",
+    brand: "Bvlgari",
+    description:
+      "Aqva Pour Homme de Bvlgari é um perfume Aromático Aquático Masculino. Aqva Pour Homme foi lançada em 2005. O perfumista que assina esta fragrância é Jacques Cavallier Belletrud. As notas de topo são: Mandarina, Laranja e Petitgrain. As notas de coração são: Algas marinhas, Lavanda e Flor de Algodão. As notas de fundo são: Cedro da Virgínia, Notas Amadeiradas, Patchouli, Sálvia Esclaréia e Âmbar.",
+    acordes: "/perfumes/masculinos/acordes/aqva-acordes.png",
+    notas: "/perfumes/masculinos/notas/aqva-notas.png",
+  },
+  {
+    id: 89,
+    img: "/perfumes/masculinos/jimmy-choo.webp",
+    title: "Jimmy Choo Man",
+    brand: "Jimmy Choo",
+    description:
+      "Jimmy Choo Man de Jimmy Choo é um perfume Aromático Frutado Masculino. Jimmy Choo Man foi lançada em 2014. O perfumista que assina esta fragrância é Anne Flipo.",
+    acordes: "/perfumes/masculinos/acordes/jimmy-choo-acordes.png",
+    notas: "/perfumes/masculinos/notas/jimmy-choo-notas.png",
+  },
+  {
+    id: 90,
+    img: "/perfumes/masculinos/invictus-platinum.webp",
+    title: "Invictus Platinum",
+    brand: "Paco Rabanne",
+    description:
+      "Invictus Platinum de Rabanne é um perfume Amadeirado Aromático Masculino. Esta é uma nova fragrância. Invictus Platinum foi lançada em 2022. As notas de topo são: Absinto e Toranja. As notas de coração são: Hortelã e Lavanda. As notas de fundo são: Cipreste e Patchouli.",
+    acordes: "/perfumes/masculinos/acordes/invictus-platinum-acordes.png",
+    notas: "/perfumes/masculinos/notas/invictus-platinum-notas.png",
+  },
 ];
 
 export const femininos: IPerfumes[] = [
