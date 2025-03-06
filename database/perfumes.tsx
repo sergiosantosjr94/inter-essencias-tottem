@@ -149,7 +149,7 @@ export const masculinos: IPerfumes[] = [
     description:
       "Armani Code de Giorgio Armani é um perfume Oriental Especiado Masculino. Armani Code foi lançada em 2004. O perfumista que assina esta fragrância é Antoine Lie. As notas de topo são: Limão e Bergamota. As notas de coração são: Anis Estrelado, Flor de Oliveira e Madeira Guaiac. As notas de fundo são: Couro, Fava Tonka e Tabaco. Este Perfume é premiado FiFi Award Fragrance Of The Year Men`s Luxe 2006.",
     acordes: "/perfumes/masculinos/acordes/armani-code-acordes.png",
-    notas: "/perfumes/masculinos/notas/armani-code-homme-notas.png",
+    notas: "/perfumes/masculinos/notas/armani-code-notas.png",
   },
   {
     id: 15,
