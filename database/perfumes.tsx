@@ -1274,4 +1274,594 @@ export const femininos: IPerfumes[] = [
     acordes: "/perfumes/feminino/acordes/la-nuit-tresor-acordes.png",
     notas: "/perfumes/feminino/notas/la-nuit-tresor-notas.png",
   },
+  {
+    id: 41,
+    img: "/perfumes/feminino/delina.webp",
+    title: "Delina",
+    brand: "Parfums de marly",
+    description:
+      "La Nuit Trésor de Lancôme é um perfume Oriental Baunilha Feminino. La Nuit Trésor foi lançada em 2015. La Nuit Trésor foi criado por Christophe Raynaud e Amandine Clerc-Marie. As notas de topo são: Pera, Tangerina e Bergamota. As notas de coração são: Morango, Orquídea Baunilha, Rosa Negra e Maracujá. As notas de fundo são: Pralinê, Caramelo, Lichia, Baunilha, Patchouli, Incenso, Café, Alcaçuz, Cumarina e Papiro.",
+    acordes: "/perfumes/feminino/acordes/la-nuit-tresor-acordes.png",
+    notas: "/perfumes/feminino/notas/la-nuit-tresor-notas.png",
+  },
+  {
+    id: 42,
+    img: "/perfumes/feminino/royal-amber.webp",
+    title: "Royal Amber",
+    brand: "Orientica",
+    description:
+      "Royal Amber de Orientica Premium é um perfume Oriental Baunilha Compartilhável. Royal Amber foi lançada em 2021. As notas de topo são: Bergamota e Notas Verdes. As notas de coração são: Notas Doces, Melão, Abacaxi e Âmbar. As notas de fundo são: Almíscar, Notas Amadeiradas e Baunilha.",
+    acordes: "/perfumes/feminino/acordes/royal-amber-acordes.png",
+    notas: "/perfumes/feminino/notas/royal-amber-notas.png",
+  },
+  {
+    id: 43,
+    img: "/perfumes/feminino/aqcua-di-gioia.webp",
+    title: "Acqua di Gioia",
+    brand: "Giorgio Armani",
+    description:
+      "Acqua di Gioia de Giorgio Armani é um perfume Floral Aquático Feminino. Acqua di Gioia foi lançada em 2010. Acqua di Gioia foi criado por Loc Dong, Anne Flipo e Dominique Ropion. As notas de topo são: Limão de Amalfi e Hortelã. A nota de coração é Jasmim Aquático. As notas de fundo são: Cedro da Virgínia, Açúcar mascavo e Ládano francês.",
+    acordes: "/perfumes/feminino/acordes/aqcua-di-gioia-acordes.png",
+    notas: "/perfumes/feminino/notas/aqcua-di-gioia-notas.png",
+  },
+  {
+    id: 44,
+    img: "/perfumes/masculinos/black-orchid.webp",
+    title: "Black Orchid",
+    brand: "Tom Ford",
+    description:
+      "Black Orchid de Tom Ford é um perfume Oriental Floral Feminino. Black Orchid foi lançada em 2006. Black Orchid foi criado por David Apel e Pierre Negrin. As notas de topo são: Trufa, Gardênia, Groselha Preta, Ylang Ylang, Jasmim, Bergamota, Mandarina e Limão de Amalfi. As notas de coração são: Orquídea, Especiarias, Gardênia, Notas Frutadas, Ylang Ylang, Jasmim e Lótus. As notas de fundo são: Chocolate mexicano, Patchouli, Baunilha, Incenso, Âmbar, Sândalo, Vetiver e Almíscar Branco.",
+    acordes: "/perfumes/masculinos/acordes/black-orchid-acordes.png",
+    notas: "/perfumes/masculinos/notas/black-orchid-notas.png",
+  },
+  {
+    id: 45,
+    img: "/perfumes/feminino/si.webp",
+    title: "Sí",
+    brand: "Giorgio Armani",
+    description:
+      "Si de Giorgio Armani é um perfume Chipre Frutado Feminino. Si foi lançada em 2013. O perfumista que assina esta fragrância é Christine Nagel. A nota de topo é Cassis. As notas de coração são: Rosa de Maio e Frésia. As notas de fundo são: Baunilha, Patchouli, Notas Amadeiradas e Ambroxan.",
+    acordes: "/perfumes/feminino/acordes/si-acordes.png",
+    notas: "/perfumes/feminino/notas/si-notas.png",
+  },
+  {
+    id: 46,
+    img: "/perfumes/feminino/baccarat-rouge-540.webp",
+    title: "Baccarat Rouge 540",
+    brand: "Maison Francis Kurkdjian",
+    description:
+      "Baccarat Rouge 540 de Maison Francis Kurkdjian é um perfume Oriental Floral Compartilhável. Baccarat Rouge 540 foi lançada em 2015. O perfumista que assina esta fragrância é Francis Kurkdjian. As notas de topo são: Açafrão e Jasmim. As notas de coração são: Madeira de Âmbar, Âmbar Cinzento e Hedione. As notas de fundo são: Resina de Abeto, Cedro, Açúcar, Ambroxan e Musgo de Carvalho.",
+    acordes: "/perfumes/feminino/acordes/baccarat-rouge-540-acordes.png",
+    notas: "/perfumes/feminino/notas/baccarat-rouge-540-notas.png",
+  },
+  {
+    id: 47,
+    img: "/perfumes/feminino/crystal-noir.webp",
+    title: "Cristal Noir",
+    brand: "Versace",
+    description:
+      "Crystal Noir de Versace é um perfume Oriental Floral Feminino. Crystal Noir foi lançada em 2004. O perfumista que assina esta fragrância é Antoine Lie. As notas de topo são: Pimenta, Gengibre e Cardamomo. As notas de coração são: Coco, Gardênia, Flor de Laranjeira e Peônia. As notas de fundo são: Sândalo, Almíscar e Âmbar.",
+    acordes: "/perfumes/feminino/acordes/crystal-noir-acordes.png",
+    notas: "/perfumes/feminino/notas/crystal-noir-notas.png",
+  },
+  {
+    id: 48,
+    img: "/perfumes/feminino/mademoiselle-azzaro.webp",
+    title: "Madeimoselle",
+    brand: "Azzaro",
+    description:
+      "Mademoiselle de Azzaro é um perfume Floral Frutado Feminino. Mademoiselle foi lançada em 2015. O perfumista que assina esta fragrância é Karine Dubreuil-Sereni. As notas de topo são: Pêssego e Flor de Mandarina. As notas de coração são: Peônia, Jasmim e Flor de Laranjeira. As notas de fundo são: Raíz de Orris e Notas Amadeiradas.",
+    acordes: "/perfumes/feminino/acordes/mademoiselle-azzaro-acordes.png",
+    notas: "/perfumes/feminino/notas/mademoiselle-azzaro-notas.png",
+  },
+  {
+    id: 49,
+    img: "/perfumes/feminino/poison-girl.webp",
+    title: "Poison Girl",
+    brand: "Christian Dior",
+    description:
+      "Poison Girl de Dior é um perfume Oriental Baunilha Feminino. Poison Girl foi lançada em 2016. O perfumista que assina esta fragrância é François Demachy. As notas de topo são: Laranja Amarga e Limão. As notas de coração são: Rosa Damascena, Rosa de Grasse e Flor de Laranjeira. As notas de fundo são: Baunilha, Amêndoa, Fava Tonka, Bálsamo-de-Tolu, Sândalo, Cashmeran e Heliotrópio.",
+    acordes: "/perfumes/feminino/acordes/poison-girl-acordes.png",
+    notas: "/perfumes/feminino/notas/poison-girl-notas.png",
+  },
+  {
+    id: 50,
+    img: "/perfumes/feminino/wanted-girl.webp",
+    title: "Wanted Girl",
+    brand: "Azzaro",
+    description:
+      "Wanted Girl de Azzaro é um perfume Oriental Floral Feminino. Wanted Girl foi lançada em 2019. Wanted Girl foi criado por Dominique Ropion, Fanny Bal, Loc Dong e Jean-Christophe Herault. As notas de topo são: Flor de Gengibre, Flor de Laranjeira, Pimenta Rosa e Romã. As notas de coração são: Doce de Leite e Datura. As notas de fundo são: Fava Tonka, Patchouli e Vetiver do Haiti.",
+    acordes: "/perfumes/feminino/acordes/wanted-girl-acordes.png",
+    notas: "/perfumes/feminino/notas/wanted-girl-notas.png",
+  },
+  {
+    id: 51,
+    img: "/perfumes/feminino/gabrielle.webp",
+    title: "Gabrielle",
+    brand: "Chanel",
+    description:
+      "Gabrielle de Chanel é um perfume Floral Feminino. Gabrielle foi lançada em 2017. O perfumista que assina esta fragrância é Olivier Polge. As notas de topo são: Toranja, Mandarina e Groselha Preta. As notas de coração são: Flor de Laranjeira, Jasmim, Ylang Ylang, Tuberosa, Lírio-do-Vale, Pera e Pimenta Rosa. As notas de fundo são: Almíscar, Sândalo, Cashmeran e Raíz de Orris.",
+    acordes: "/perfumes/feminino/acordes/gabrielle-acordes.png",
+    notas: "/perfumes/feminino/notas/gabrielle-notas.png",
+  },
+  {
+    id: 52,
+    img: "/perfumes/feminino/black-xs-fem.webp",
+    title: "Black XS",
+    brand: "Paco Rabanne",
+    description:
+      "Black XS for Her Eau de Parfum de Rabanne é um perfume Oriental Amadeirado Feminino. Black XS for Her Eau de Parfum foi lançada em 2018. As notas de topo são: Oxicoco, Pimenta Rosa e Tamarindo. As notas de coração são: Cacau, Rosa e Violeta Negra. As notas de fundo são: Casca de Baunilha Negra, Sândalo e Madeira de Massoia.",
+    acordes: "/perfumes/feminino/acordes/black-xs-fem-acordes.png",
+    notas: "/perfumes/feminino/notas/black-xs-fem-notas.png",
+  },
+  {
+    id: 53,
+    img: "/perfumes/feminino/addict.webp",
+    title: "Addict",
+    brand: "Christian Dior",
+    description:
+      "Dior Addict de Dior é um perfume Oriental Floral Feminino. Dior Addict foi lançada em 2002. Dior Addict foi criado por Thierry Wasser e Christian Dussoulier. As notas de topo são: Amora, Folha de Mandarina e Flor de Acácia-de-Constantinopla. As notas de coração são: Jasmim, Flor de Laranjeira, Cereus Noturno e Rosa. As notas de fundo são: Baunilha, Fava Tonka e Sândalo de Mysore.",
+    acordes: "/perfumes/feminino/acordes/addict-acordes.png",
+    notas: "/perfumes/feminino/notas/addict-notas.png",
+  },
+  {
+    id: 54,
+    img: "/perfumes/feminino/omnia.webp",
+    title: "Omnia",
+    brand: "Bvlgari",
+    description:
+      "Omnia Amethyste de Bvlgari é um perfume Floral Amadeirado Almiscarado Feminino. Omnia Amethyste foi lançada em 2006. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Notas Verdes e Toranja Rosa. As notas de coração são: Íris e Rosa Búlgara. As notas de fundo são: Heliotrópio e Notas Amadeiradas.",
+    acordes: "/perfumes/feminino/acordes/omnia-acordes.png",
+    notas: "/perfumes/feminino/notas/omnia-notas.png",
+  },
+  {
+    id: 55,
+    img: "/perfumes/feminino/alien-mugler.webp",
+    title: "Alien",
+    brand: "Thierry Mugler",
+    description:
+      "Alien de Mugler é um perfume Oriental Amadeirado Feminino. Alien foi lançada em 2005. Alien foi criado por Dominique Ropion e Laurent Bruyere. A nota de topo é Jasmim Sambac. A nota de coração é Cashmeran. A nota de fundo é Âmbar.",
+    acordes: "/perfumes/feminino/acordes/alien-mugler-acordes.png",
+    notas: "/perfumes/feminino/notas/alien-mugler-notas.png",
+  },
+  {
+    id: 57,
+    img: "/perfumes/feminino/samsara.webp",
+    title: "Samsara",
+    brand: "Guerlain",
+    description:
+      "Samsara Eau de Parfum de Guerlain é um perfume Oriental Amadeirado Feminino. Samsara Eau de Parfum foi lançada em 1989. O perfumista que assina esta fragrância é Jean-Paul Guerlain. As notas de topo são: Ylang Ylang, Pêssego, Bergamota, Notas Verdes e Limão. As notas de coração são: Íris, Jasmim, Narciso, Raíz de Orris, Rosa e Violeta. As notas de fundo são: Sândalo, Baunilha, Íris, Âmbar, Fava Tonka e Almíscar.",
+    acordes: "/perfumes/feminino/acordes/samsara-acordes.png",
+    notas: "/perfumes/feminino/notas/samsara-notas.png",
+  },
+  {
+    id: 58,
+    img: "/perfumes/feminino/miss-dior.webp",
+    title: "Miss Dior",
+    brand: "Christian Dior",
+    description:
+      "Miss Dior Eau de Parfum (2021) de Dior é um perfume Oriental Floral Feminino. Miss Dior Eau de Parfum (2021) foi lançada em 2021. O perfumista que assina esta fragrância é François Demachy. As notas de topo são: Íris, Peônia e Lírio-do-Vale. As notas de coração são: Damasco, Rosa e Pêssego. As notas de fundo são: Baunilha, Almíscar, Fava Tonka, Benjoim e Sândalo.",
+    acordes: "/perfumes/feminino/acordes/samsara-acordes.png",
+    notas: "/perfumes/feminino/notas/samsara-notas.png",
+  },
+  {
+    id: 59,
+    img: "/perfumes/feminino/daisy.webp",
+    title: "Daisy",
+    brand: "Marc Jacobs",
+    description:
+      "Daisy de Marc Jacobs é um perfume Floral Amadeirado Almiscarado Feminino. Daisy foi lançada em 2007. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Folha de Violeta, Toranja Sanguínea e Morango. As notas de coração são: Violeta, Gardênia e Jasmim. As notas de fundo são: Almíscar, Madeiras Brancas e Baunilha. Este é um Perfume premiado com 2:FiFi Award Fragrance Of The Year Women`s Luxe 2008 e FiFi Awards Best Packaging Women`s Prestige 2008.",
+    acordes: "/perfumes/feminino/acordes/daisy-acordes.png",
+    notas: "/perfumes/feminino/notas/daisy-notas.png",
+  },
+  {
+    id: 60,
+    img: "/perfumes/feminino/narciso-for-her.webp",
+    title: "Narciso for Her",
+    brand: "Narciso Rodrigues",
+    description:
+      "Narciso Rodriguez for Her Eau de Parfum de Narciso Rodriguez é um perfume Floral Amadeirado Almiscarado Feminino. Narciso Rodriguez for Her Eau de Parfum foi lançada em 2006. Narciso Rodriguez for Her Eau de Parfum foi criado por Christine Nagel e Francis Kurkdjian. As notas de topo são: Rosa e Pêssego. As notas de coração são: Almíscar e Âmbar. As notas de fundo são: Patchouli e Sândalo.",
+    acordes: "/perfumes/feminino/acordes/narciso-acordes.png",
+    notas: "/perfumes/feminino/notas/narciso-notas.png",
+  },
+  {
+    id: 61,
+    img: "/perfumes/feminino/lily.webp",
+    title: "Lily",
+    brand: "O Boticário",
+    description:
+      "Lily Eau de Parfum de O Boticário é um perfume Floral Feminino. Lily Eau de Parfum foi lançada em 2017. Lily Eau de Parfum foi criado por Verônica Casanova e Yves Cassar. As notas de topo são: Pêssego, Damasco, Pera, Mandarina e Pimenta Rosa. As notas de coração são: Lírio, Jasmim, Gardênia, Osmanthus, Violeta, Íris, Narciso e Rosa. As notas de fundo são: Baunilha, Almíscar, Âmbar, Sândalo, Patchouli, Musgo e Vetiver.",
+    acordes: "/perfumes/feminino/acordes/lily-acordes.png",
+    notas: "/perfumes/feminino/notas/lily-notas.png",
+  },
+  {
+    id: 62,
+    img: "/perfumes/feminino/hypnotic-poison.webp",
+    title: "Hypnotic Poison",
+    brand: "Christian Dior",
+    description:
+      "Hypnotic Poison de Dior é um perfume Oriental Baunilha Feminino. Hypnotic Poison foi lançada em 1998. Hypnotic Poison foi criado por Annick Menardo e Christian Dussoulier. As notas de topo são: Coco, Ameixa e Damasco. As notas de coração são: Pau-Rosa, Jasmim, Alcarávia, Tuberosa, Rosa e Lírio-do-Vale. As notas de fundo são: Baunilha, Amêndoa, Sândalo e Almíscar.",
+    acordes: "/perfumes/feminino/acordes/lily-acordes.png",
+    notas: "/perfumes/feminino/notas/lily-notas.png",
+  },
+  {
+    id: 63,
+    img: "/perfumes/feminino/chance.webp",
+    title: "Chance",
+    brand: "Chanel",
+    description:
+      "Chance Eau Vive de Chanel é um perfume Floral Amadeirado Almiscarado Feminino. Chance Eau Vive foi lançada em 2015. O perfumista que assina esta fragrância é Olivier Polge. As notas de topo são: Laranja Sanguínea, Toranja e Cítricos. As notas de coração são: Jasmim e Almíscar Branco. As notas de fundo são: Vetiver, Cedro e Íris.",
+    acordes: "/perfumes/feminino/acordes/chance-acordes.png",
+    notas: "/perfumes/feminino/notas/chance-notas.png",
+  },
+  {
+    id: 64,
+    img: "/perfumes/feminino/lost-cherry.webp",
+    title: "Lost Cherry",
+    brand: "Tom Ford",
+    description:
+      "Lost Cherry de Tom Ford é um perfume Oriental Floral Compartilhável. Lost Cherry foi lançada em 2018. O perfumista que assina esta fragrância é Louise Turner. As notas de topo são: Amêndoa Amarga, Cereja Preta e Licor de Cereja. As notas de coração são: Cereja Amarga, Ameixa, Rosa Turca e Jasmim Sambac. As notas de fundo são: Baunilha, Fava Tonka, Canela, Bálsamo do Peru, Benjoim, Sândalo, Cravo-da-Índia, Cedro, Patchouli e Vetiver.",
+    acordes: "/perfumes/feminino/acordes/lost-cherry-acordes.png",
+    notas: "/perfumes/feminino/notas/lost-cherry-notas.png",
+  },
+  {
+    id: 65,
+    img: "/perfumes/feminino/tommy-girl.webp",
+    title: "Tommy Girl",
+    brand: "Tommy Hilfinger",
+    description:
+      "Tommy Girl de Tommy Hilfiger é um perfume Floral Frutado Feminino. Tommy Girl foi lançada em 1996. O perfumista que assina esta fragrância é Calice Becker. As notas de topo são: Flor de Macieira, Mandarina, Camélia e Groselha Preta. As notas de coração são: Limão, Madressilva, Toranja, Rosa, Lírio, Hortelã e Violeta. As notas de fundo são: Magnólia, Jasmim, Cedro, Sândalo e Couro.",
+    acordes: "/perfumes/feminino/acordes/tommy-girl-acordes.png",
+    notas: "/perfumes/feminino/notas/tommy-girl-notas.png",
+  },
+  {
+    id: 66,
+    img: "/perfumes/feminino/la-vie-est-belle-en-rose.webp",
+    title: "La Vie Est Belle En Rose",
+    brand: "Lancôme",
+    description:
+      "Eternity de Calvin Klein é um perfume Floral Feminino. Eternity foi lançada em 1988. O perfumista que assina esta fragrância é Sophia Grojsman. As notas de topo são: Notas Verdes, Frésia, Sálvia, Cítricos e Mandarina. As notas de coração são: Cravo, Lírio, Lírio-do-Vale, Narciso, Cravo-de-Defunto, Violeta, Rosa e Jasmim. As notas de fundo são: Almíscar, Heliotrópio, Sândalo, Âmbar e Patchouli.",
+    acordes: "/perfumes/feminino/acordes/la-vie-est-belle-en-rose-acordes.png",
+    notas: "/perfumes/feminino/notas/la-vie-est-belle-en-rose-notas.png",
+  },
+  {
+    id: 67,
+    img: "/perfumes/feminino/eternity.webp",
+    title: "Eternity",
+    brand: "Calvin Klein",
+    description:
+      "Eternity de Calvin Klein é um perfume Floral Feminino. Eternity foi lançada em 1988. O perfumista que assina esta fragrância é Sophia Grojsman. As notas de topo são: Notas Verdes, Frésia, Sálvia, Cítricos e Mandarina. As notas de coração são: Cravo, Lírio, Lírio-do-Vale, Narciso, Cravo-de-Defunto, Violeta, Rosa e Jasmim. As notas de fundo são: Almíscar, Heliotrópio, Sândalo, Âmbar e Patchouli.",
+    acordes: "/perfumes/feminino/acordes/la-vie-est-belle-en-rose-acordes.png",
+    notas: "/perfumes/feminino/notas/la-vie-est-belle-en-rose-notas.png",
+  },
+  {
+    id: 68,
+    img: "/perfumes/feminino/ange-ou-demon.webp",
+    title: "Ange ou Demon",
+    brand: "Givenchy",
+    description:
+      "Ange ou Demon de Givenchy é um perfume Oriental Floral Feminino. Ange ou Demon foi lançada em 2006. Ange ou Demon foi criado por Olivier Cresp e Jean-Pierre Bethouart. As notas de topo são: Açafrão, Tomilho e Mandarina. As notas de coração são: Lírio, Ylang Ylang e Orquídea. As notas de fundo são: Baunilha, Fava Tonka, Pau-Rosa e Musgo de Carvalho.",
+    acordes: "/perfumes/feminino/acordes/ange-ou-demon-acordes.png",
+    notas: "/perfumes/feminino/notas/ange-ou-demon-notas.png",
+  },
+  {
+    id: 69,
+    img: "/perfumes/feminino/idole.webp",
+    title: "Idôle",
+    brand: "Lancôme",
+    description:
+      "Idôle de Lancôme é um perfume Chipre Floral Feminino. Idôle foi lançada em 2019. Idôle foi criado por Shyamala Maisondieu, Adriana Medina-Baez e Nadege le Garlantezec. As notas de topo são: Pera, Bergamota e Pimenta Rosa. As notas de coração são: Rosa e Jasmim. As notas de fundo são: Almíscar Branco, Baunilha, Patchouli e Cedro.",
+    acordes: "/perfumes/feminino/acordes/idole-acordes.png",
+    notas: "/perfumes/feminino/notas/idole-notas.png",
+  },
+  {
+    id: 70,
+    img: "/perfumes/feminino/leau-de-chloe.webp",
+    title: "L'eau de Chloé",
+    brand: "Chloé",
+    description:
+      "L’Eau de Chloe de Chloé é um perfume Chipre Floral Feminino. L’Eau de Chloe foi lançada em 2012. O perfumista que assina esta fragrância é Michel Almairac. As notas de topo são: Cidra, Toranja, Bergamota, Aldeídos e Pêssego. As notas de coração são: Rosa, Água de Rosas, Violeta, Peônia, Lírio-do-Vale, Frésia, Magnólia e Jasmim. As notas de fundo são: Patchouli, Cedro, Musgo de Carvalho, Almíscar Branco, Âmbar e Ládano.",
+    acordes: "/perfumes/feminino/acordes/leau-de-chloe-acordes.png",
+    notas: "/perfumes/feminino/notas/leau-de-chloe-notas.png",
+  },
+  {
+    id: 71,
+    img: "/perfumes/feminino/chance-eau-fraiche.webp",
+    title: "Chance Eau Fraiche",
+    brand: "Chanel",
+    description:
+      "Chance Eau Fraiche de Chanel é um perfume Chipre Floral Feminino. Chance Eau Fraiche foi lançada em 2007. O perfumista que assina esta fragrância é Jacques Polge. As notas de topo são: Limão, Cedro e Cidra. As notas de coração são: Jacinto d’água, Pimenta Rosa e Jasmim. As notas de fundo são: Almíscar Branco, Patchouli, Vetiver, Madeira de Teca, Íris e Âmbar.",
+    acordes: "/perfumes/feminino/acordes/chance-eau-fraiche-acordes.png",
+    notas: "/perfumes/feminino/notas/chance-eau-fraiche-notas.png",
+  },
+  {
+    id: 72,
+    img: "/perfumes/feminino/the-one-fem.webp",
+    title: "The One",
+    brand: "Dolce & Gabbana",
+    description:
+      "The One de Dolce&Gabbana é um perfume Oriental Floral Feminino. The One foi lançada em 2006. O perfumista que assina esta fragrância é Christine Nagel. As notas de topo são: Pêssego, Lichia, Mandarina e Bergamota. As notas de coração são: Lírio, Ameixa, Jasmim e Lírio-do-Vale. As notas de fundo são: Baunilha, Âmbar, Almíscar e Vetiver.",
+    acordes: "/perfumes/feminino/acordes/the-one-fem-acordes.png",
+    notas: "/perfumes/feminino/notas/the-one-fem-notas.png",
+  },
+  {
+    id: 73,
+    img: "/perfumes/feminino/l-interdit.webp",
+    title: "L'Interdit",
+    brand: "Givenchy",
+    description:
+      "L’Interdit Eau de Parfum de Givenchy é um perfume Oriental Floral Feminino. L’Interdit Eau de Parfum foi lançada em 2018. L’Interdit Eau de Parfum foi criado por Dominique Ropion, Anne Flipo e Fanny Bal. As notas de topo são: Pera e Bergamota. As notas de coração são: Tuberosa, Flor de Laranjeira e Jasmim Sambac. As notas de fundo são: Patchouli, Baunilha, Ambroxan e Vetiver.",
+    acordes: "/perfumes/feminino/acordes/l-interdit-acordes.png",
+    notas: "/perfumes/feminino/notas/l-interdit-notas.png",
+  },
+  {
+    id: 74,
+    img: "/perfumes/feminino/leau-dissey.webp",
+    title: "L'eau  D'Issey",
+    brand: "Issey Miyaki",
+    description:
+      "L’eau d’Issey de Issey Miyake é um perfume Floral Aquático Feminino. L’eau d’Issey foi lançada em 1992. O perfumista que assina esta fragrância é Jacques Cavallier Belletrud. As notas de topo são: Lótus, Melão, Frésia, Água de Rosas, Rosa, Calone e Cyclamen. As notas de coração são: Lírio-do-Vale, Lírio, Peônia Aquática e Cravo. As notas de fundo são: Almíscar, Tuberosa, Madeiras Exóticas, Osmanthus, Cedro, Sândalo e Âmbar.",
+    acordes: "/perfumes/feminino/acordes/leau-dissey-acordes.png",
+    notas: "/perfumes/feminino/notas/leau-dissey-notas.png",
+  },
+  {
+    id: 75,
+    img: "/perfumes/feminino/flowerbomb.webp",
+    title: "Flower Bomb",
+    brand: "Victor&Rolf",
+    description:
+      "Flowerbomb de Viktor&Rolf é um perfume Oriental Floral Feminino. Flowerbomb foi lançada em 2005. Flowerbomb foi criado por Olivier Polge, Carlos Benaïm, Domitille Michalon Bertier e Dominique Ropion. As notas de topo são: Chá, Bergamota e Osmanthus. As notas de coração são: Orquídea, Jasmim, Rosa, Frésia e Flor de Laranjeira Africana. As notas de fundo são: Patchouli, Almíscar e Baunilha. Este Perfume é premiado FiFi Award Best National Advertising Campaign / Print 2006.",
+    acordes: "/perfumes/feminino/acordes/flowerbomb-acordes.png",
+    notas: "/perfumes/feminino/notas/flowerbomb-notas.png",
+  },
+  {
+    id: 77,
+    img: "/perfumes/feminino/armani-code-for-women.webp",
+    title: "Armani Code For Women",
+    brand: "Giorgio Armani",
+    description:
+      "Armani Code for Women de Giorgio Armani é um perfume Floral Feminino. Armani Code for Women foi lançada em 2006. Armani Code for Women foi criado por Carlos Benaïm, Dominique Ropion e Olivier Polge. As notas de topo são: Laranja Italiana, Jasmim e Laranja Amarga. As notas de coração são: Jasmim, Flor de Laranjeira e Gengibre. As notas de fundo são: Mel, Baunilha e Sândalo.",
+    acordes: "/perfumes/feminino/acordes/armani-code-for-women-acordes.png",
+    notas: "/perfumes/feminino/notas/armani-code-for-women-notas.png",
+  },
+  {
+    id: 78,
+    img: "/perfumes/feminino/dylan-blue.webp",
+    title: "Armani Code For Women",
+    brand: "Giorgio Armani",
+    description:
+      "Versace Pour Femme Dylan Blue de Versace é um perfume Floral Frutado Feminino. Versace Pour Femme Dylan Blue foi lançada em 2017. Versace Pour Femme Dylan Blue foi criado por Calice Becker e Natalie Gracia-Cetto. As notas de topo são: Maçã Granny Smith, Groselha Preta, Trevo-Branco, Myosotis e Shissô. As notas de coração são: Pêssego, Petalia, Rosa Mosqueta, Rosa e Jasmim. As notas de fundo são: Almíscar, Madeiras Brancas, Styrax e Patchouli.",
+    acordes: "/perfumes/feminino/acordes/dylan-blue-acordes.png",
+    notas: "/perfumes/feminino/notas/dylan-blue-notas.png",
+  },
+  {
+    id: 79,
+    img: "/perfumes/feminino/good-girl-legere.webp",
+    title: "Good Girl Legere",
+    brand: "Carolina Herrera",
+    description:
+      "Good Girl Légère de Carolina Herrera é um perfume Oriental Floral Feminino. Good Girl Légère foi lançada em 2018. O perfumista que assina esta fragrância é Louise Turner. As notas de topo são: Ylang Ylang, Mandarina, Bergamota e Limão. As notas de coração são: Tuberosa, Jasmim, Flor de Laranjeira e Rosa Búlgara. As notas de fundo são: Doce de Leite, Pralinê, Fava Tonka, Canela, Madeira de Cashmir, Sândalo, Almíscar, Âmbar, Patchouli e Cedro.",
+    acordes: "/perfumes/feminino/acordes/good-girl-legere-acordes.png",
+    notas: "/perfumes/feminino/notas/good-girl-legere-notas.png",
+  },
+  {
+    id: 80,
+    img: "/perfumes/feminino/nomade.webp",
+    title: "Nomade",
+    brand: "Chloé",
+    description:
+      "Nomade de Chloé é um perfume Chipre Floral Feminino. Nomade foi lançada em 2018. O perfumista que assina esta fragrância é Quentin Bisch. As notas de topo são: Ameixa Mirabelle, Bergamota, Limão e Laranja. As notas de coração são: Frésia, Pêssego, Jasmim e Rosa. As notas de fundo são: Musgo de Carvalho, Patchouli, Madeira de Âmbar, Almíscar Branco e Sândalo.",
+    acordes: "/perfumes/feminino/acordes/nomade-acordes.png",
+    notas: "/perfumes/feminino/notas/nomade-notas.png",
+  },
+  {
+    id: 81,
+    img: "/perfumes/feminino/si-passione.webp",
+    title: "Sì Passione",
+    brand: "Giorgio Armani",
+    description:
+      "Sì Passione de Giorgio Armani é um perfume Floral Frutado Feminino. Sì Passione foi lançada em 2017. Sì Passione foi criado por Christine Nagel e Julie Massé. As notas de topo são: Pera, Groselha Preta, Pimenta Rosa e Toranja. As notas de coração são: Abacaxi, Rosa, Jasmim e Heliotrópio. As notas de fundo são: Baunilha, Cedro, Patchouli e Madeira de Âmbar.",
+    acordes: "/perfumes/feminino/acordes/si-passione-acordes.png",
+    notas: "/perfumes/feminino/notas/si-passione-notas.png",
+  },
+  {
+    id: 82,
+    img: "/perfumes/feminino/rose-goldea.webp",
+    title: "Rose Goldea",
+    brand: "Bvlgari",
+    description:
+      "Rose Goldea de Bvlgari é um perfume Floral Amadeirado Almiscarado Feminino. Rose Goldea foi lançada em 2016. O perfumista que assina esta fragrância é Alberto Morillas. As notas de topo são: Rosa, Almíscar, Romã e Bergamota. As notas de coração são: Rosa Damascena, Peônia, Jasmim e Pêssego. As notas de fundo são: Almíscar, Sândalo, Olíbano e Baunilha.",
+    acordes: "/perfumes/feminino/acordes/rose-goldea-acordes.png",
+    notas: "/perfumes/feminino/notas/rose-goldea-notas.png",
+  },
+  {
+    id: 83,
+    img: "/perfumes/feminino/coco-mademoiselle.webp",
+    title: "Coco Mademoiselle",
+    brand: "Chanel",
+    description:
+      "Chanel No 5 Eau de Parfum de Chanel é um perfume Floral Aldeídico Feminino. Chanel No 5 Eau de Parfum foi lançada em 1986. O perfumista que assina esta fragrância é Jacques Polge. As notas de topo são: Aldeídos, Ylang Ylang, Néroli, Bergamota e Pêssego. As notas de coração são: Íris, Jasmim, Rosa e Lírio-do-Vale. As notas de fundo são: Sândalo, Baunilha, Musgo de Carvalho, Patchouli e Vetiver.",
+    acordes: "/perfumes/feminino/acordes/coco-mademoiselle-acordes.png",
+    notas: "/perfumes/feminino/notas/coco-mademoiselle-notas.png",
+  },
+  {
+    id: 84,
+    img: "/perfumes/feminino/fantasy.webp",
+    title: "Fantasy",
+    brand: "Britney Spears",
+    description:
+      "Fantasy de Britney Spears é um perfume Floral Frutado Gourmet Feminino. Fantasy foi lançada em 2005. O perfumista que assina esta fragrância é James Krivda. As notas de topo são: Kiwi, Lichia vermelha e Marmelo. As notas de coração são: Chocolate Branco, Cupcake, Orquídea e Jasmim. As notas de fundo são: Almíscar, Raíz de Orris e Notas Amadeiradas.",
+    acordes: "/perfumes/feminino/acordes/fantasy-acordes.png",
+    notas: "/perfumes/feminino/notas/fantasy-notas.png",
+  },
+  {
+    id: 85,
+    img: "/perfumes/feminino/light-blue.webp",
+    title: "Light Blue",
+    brand: "Dolce & Gabbana",
+    description:
+      "Light Blue de Dolce&Gabbana é um perfume Floral Frutado Feminino. Light Blue foi lançada em 2001. O perfumista que assina esta fragrância é Olivier Cresp. As notas de topo são: Limão Siciliano, Maçã, Cedro e Câmpanula. As notas de coração são: Bambú, Jasmim e Rosa Branca. As notas de fundo são: Cedro, Almíscar e Âmbar.",
+    acordes: "/perfumes/feminino/acordes/light-blue-acordes.png",
+    notas: "/perfumes/feminino/notas/light-blue-notas.png",
+  },
+  {
+    id: 86,
+    img: "/perfumes/feminino/good-girl.webp",
+    title: "Good Girl",
+    brand: "Carolina Herrera",
+    description:
+      "Good Girl de Carolina Herrera é um perfume Oriental Floral Feminino. Good Girl foi lançada em 2016. Good Girl foi criado por Louise Turner e Quentin Bisch. As notas de topo são: Amêndoa, Café, Bergamota e Limão. As notas de coração são: Tuberosa, Jasmim Sambac, Flor de Laranjeira, Rosa Búlgara e Raíz de Orris. As notas de fundo são: Fava Tonka, Cacau, Baunilha, Pralinê, Sândalo, Almíscar, Âmbar, Madeira de Cashmere, Patchouli, Canela e Cedro.",
+    acordes: "/perfumes/feminino/acordes/good-girl-acordes.png",
+    notas: "/perfumes/feminino/notas/good-girl-notas.png",
+  },
+  {
+    id: 87,
+    img: "/perfumes/feminino/libre.webp",
+    title: "Libre",
+    brand: "Yves Saint Laurent",
+    description:
+      "Libre de Yves Saint Laurent é um perfume Oriental Fougére Feminino. Libre foi lançada em 2019. Libre foi criado por Anne Flipo e Carlos Benaïm. As notas de topo são: Lavanda, Mandarina, Groselha Preta e Petitgrain. As notas de coração são: Lavanda, Flor de Laranjeira e Jasmim. As notas de fundo são: Baunilha de Madagascar, Almíscar, Cedro e Âmbar Cinzento.",
+    acordes: "/perfumes/feminino/acordes/libre-acordes.png",
+    notas: "/perfumes/feminino/notas/libre-notas.png",
+  },
+  {
+    id: 88,
+    img: "/perfumes/feminino/elysee.webp",
+    title: "Elysée",
+    brand: "O Boticário",
+    description:
+      "Elysée de O Boticário é um perfume Chipre Floral Feminino. Elysée foi lançada em 2015. Elysée foi criado por Hernan Fígoli e Jacques Huclier. As notas de topo são: Pimenta Rosa, Mandarina, Frésia, Framboesa, Canela, Gelado de Fruta e Maçã. As notas de coração são: Rosa, Notas Florais, Peônia e Ylang Ylang. As notas de fundo são: Patchouli, Almíscar, Sândalo Australiano, Âmbar, Cedro do Texas, Íris, Benjoim, Fava Tonka e Baunilha.",
+    acordes: "/perfumes/feminino/acordes/elysee-acordes.png",
+    notas: "/perfumes/feminino/notas/elysee-notas.png",
+  },
+  {
+    id: 89,
+    img: "/perfumes/feminino/my-way.webp",
+    title: "My Way",
+    brand: "Giorgio Armani",
+    description:
+      "My Way de Giorgio Armani é um perfume Floral Feminino. My Way foi lançada em 2020. My Way foi criado por Carlos Benaïm e Bruno Jovanovic. As notas de topo são: Flor de Laranjeira e Bergamota. As notas de coração são: Tuberosa e Jasmim Indiano. As notas de fundo são: Baunilha de Madagascar, Almíscar Branco e Cedro da Virgínia.",
+    acordes: "/perfumes/feminino/acordes/my-way-acordes.png",
+    notas: "/perfumes/feminino/notas/my-way-notas.png",
+  },
+  {
+    id: 90,
+    img: "/perfumes/feminino/scandal.webp",
+    title: "Scandal",
+    brand: "Jean Paul Gaultier",
+    description:
+      "Scandal de Jean Paul Gaultier é um perfume Chipre Floral Feminino. Scandal foi lançada em 2017. Scandal foi criado por Daphné Bugey, Fabrice Pellegrin e Christophe Raynaud. As notas de topo são: Laranja Sanguínea e Mandarina. As notas de coração são: Mel, Gardênia, Flor de Laranjeira, Jasmim e Pêssego. As notas de fundo são: Cera de Abelha, Caramelo, Patchouli e Alcaçuz.",
+    acordes: "/perfumes/feminino/acordes/my-way-acordes.png",
+    notas: "/perfumes/feminino/notas/my-way-notas.png",
+  },
+  {
+    id: 91,
+    img: "/perfumes/feminino/ck-in2u-for-her.webp",
+    title: "CK In2u For Her",
+    brand: "Calvin Klein",
+    description:
+      "CK IN2U for Her de Calvin Klein é um perfume Oriental Floral Feminino. CK IN2U for Her foi lançada em 2007. CK IN2U for Her foi criado por Bruno Jovanovic, Jean-Marc Chaillan, Loc Dong e Carlos Benaïm. As notas de topo são: Toranja Rosa, Bergamota Siciliana e Folha de Groselha Vermelha. As notas de coração são: Cáctus e Orquídea. As notas de fundo são: Baunilha, Cedro vermelho e Âmbar.",
+    acordes: "/perfumes/feminino/acordes/ck-in2u-for-her-acordes.png",
+    notas: "/perfumes/feminino/notas/ck-in2u-for-her-notas.png",
+  },
+  {
+    id: 92,
+    img: "/perfumes/feminino/good-girl-blush.webp",
+    title: "Good Girl Blush",
+    brand: "Carolina Herrera",
+    description:
+      "Good Girl Blush de Carolina Herrera é um perfume Chipre Floral Feminino. Esta é uma nova fragrância. Good Girl Blush foi lançada em 2023. Good Girl Blush foi criado por Quentin Bisch, Shyamala Maisondieu e Christophe Raynaud. As notas de topo são: Bergamota e Amêndoa Amarga. As notas de coração são: Peônia e Ylang Ylang. As notas de fundo são: Baunilha e Cumarina.",
+    acordes: "/perfumes/feminino/acordes/good-girl-blush-acordes.png",
+    notas: "/perfumes/feminino/notas/good-girl-blush-notas.png",
+  },
+  {
+    id: 93,
+    img: "/perfumes/feminino/fame.webp",
+    title: "Fame",
+    brand: "Paco Rabanne",
+    description:
+      "Fame de Rabanne é um perfume Floral Amadeirado Almiscarado Feminino. Esta é uma nova fragrância. Fame foi lançada em 2022. Fame foi criado por Dora Baghriche, Marie Salamagne, Alberto Morillas e Fabrice Pellegrin. As notas de topo são: Manga e Bergamota. As notas de coração são: Jasmim e Olíbano. As notas de fundo são: Baunilha e Sândalo.",
+    acordes: "/perfumes/feminino/acordes/fame-acordes.png",
+    notas: "/perfumes/feminino/notas/fame-notas.png",
+  },
+  {
+    id: 94,
+    img: "/perfumes/feminino/hacivat.webp",
+    title: "Hacivat",
+    brand: "Nishane",
+    description:
+      "Hacivat de Nishane é um perfume Chipre Compartilhável. Hacivat foi lançada em 2017. O perfumista que assina esta fragrância é Jorge Lee. As notas de topo são: Abacaxi, Toranja e Bergamota. As notas de coração são: Cedro, Patchouli e Jasmim. As notas de fundo são: Musgo de Carvalho e Notas Amadeiradas.",
+    acordes: "/perfumes/feminino/acordes/hacivat-acordes.png",
+    notas: "/perfumes/feminino/notas/hacivat-notas.png",
+  },
+  {
+    id: 95,
+    img: "/perfumes/feminino/paradoxe.webp",
+    title: "Paradoxe",
+    brand: "Prada",
+    description:
+      "Prada Paradoxe de Prada é um perfume Oriental Floral Feminino. Esta é uma nova fragrância. Prada Paradoxe foi lançada em 2022. Prada Paradoxe foi criado por Nadège Le Garlantezec, Antoine Maisondieu e Shyamala Maisondieu. As notas de topo são: Pera, Tangerina e Bergamota. As notas de coração são: Flor de Laranjeira, Essência de Néroli, Néroli e Jasmim Sambac. As notas de fundo são: Baunilha de Bourbon, Âmbar, Almíscar Branco e Benjoim.",
+    acordes: "/perfumes/feminino/acordes/paradoxe-acordes.png",
+    notas: "/perfumes/feminino/notas/paradoxe-notas.png",
+  },
+  {
+    id: 96,
+    img: "/perfumes/feminino/flower-by-kenzo.webp",
+    title: "Flower by Kenzo",
+    brand: "Kenzo",
+    description:
+      "Flower by Kenzo de Kenzo é um perfume Oriental Floral Feminino. Flower by Kenzo foi lançada em 2000. Flower by Kenzo foi criado por Alberto Morillas e Christian Dussoulier. As notas de topo são: Rosa Búlgara, Espinheiro branco, Groselha Preta e Mandarina. As notas de coração são: Violeta de Parma, Rosa, Opoponax e Jasmim. As notas de fundo são: Baunilha, Almíscar Branco e Incenso.",
+    acordes: "/perfumes/feminino/acordes/flower-by-kenzo-acordes.png",
+    notas: "/perfumes/feminino/notas/flower-by-kenzo-notas.png",
+  },
+  {
+    id: 97,
+    img: "/perfumes/feminino/valaya.webp",
+    title: "Valaya",
+    brand: "Parfums de Marly",
+    description:
+      "Valaya de Parfums de Marly é um perfume Floral Frutado Feminino. Esta é uma nova fragrância. Valaya foi lançada em 2023. O perfumista que assina esta fragrância é Quentin Bisch. As notas de topo são: Aldeídos, Pêssego Branco, Bergamota e Mandarina. As notas de coração são: Flor de Laranjeira, Petalia, Lírio-do-Vale, Nympheal™, Vetiver e Uva do Oregon. As notas de fundo são: Almíscar, Ambroxan, Akigalawood e Baunilha.",
+    acordes: "/perfumes/feminino/acordes/valaya-acordes.png",
+    notas: "/perfumes/feminino/notas/valaya-notas.png",
+  },
+  {
+    id: 98,
+    img: "/perfumes/feminino/dylan-turquoise.webp",
+    title: "Dylan Turquoise",
+    brand: "Versace",
+    description:
+      "Versace Pour Femme Dylan Turquoise de Versace é um perfume Floral Frutado Feminino. Versace Pour Femme Dylan Turquoise foi lançada em 2020. O perfumista que assina esta fragrância é Sophie Labbe. As notas de topo são: Limão, Mandarina e Pimenta Rosa. As notas de coração são: Goiaba, Frésia, Cassis e Jasmim. As notas de fundo são: Clearwood®, Almíscar e Cedro.",
+    acordes: "/perfumes/feminino/acordes/dylan-turquoise-acordes.png",
+    notas: "/perfumes/feminino/notas/dylan-turquoise-notas.png",
+  },
+  {
+    id: 99,
+    img: "/perfumes/feminino/signature.webp",
+    title: "Signature",
+    brand: "Montblanc",
+    description:
+      "Signature de Montblanc é um perfume Oriental Floral Feminino. Signature foi lançada em 2020. Signature foi criado por Guillaume Flavigny e Natalie Gracia-Cetto. A nota de topo é Clementina. As notas de coração são: Magnólia, Ylang Ylang e Peônia. As notas de fundo são: Baunilha, Almíscar Branco e Benjoim.",
+    acordes: "/perfumes/feminino/acordes/signature-acordes.png",
+    notas: "/perfumes/feminino/notas/signature-notas.png",
+  },
+  {
+    id: 100,
+    img: "/perfumes/feminino/gucci-guilty.webp",
+    title: "Gucci Guilty",
+    brand: "Gucci",
+    description:
+      "Gucci Guilty de Gucci é um perfume Oriental Floral Feminino. Gucci Guilty foi lançada em 2010. O perfumista que assina esta fragrância é Aurélien Guichard. As notas de topo são: Pimenta Rosa, Mandarina e Bergamota. As notas de coração são: Lilás, Pêssego, Gerânio, Jasmim e Groselha Preta. As notas de fundo são: Patchouli, Âmbar, Almíscar Branco e Baunilha.",
+    acordes: "/perfumes/feminino/acordes/gucci-guilty-acordes.png",
+    notas: "/perfumes/feminino/notas/gucci-guilty-notas.png",
+  },
+  {
+    id: 101,
+    img: "/perfumes/feminino/jadore-lor.webp",
+    title: "Gucci Guilty",
+    brand: "Gucci",
+    description:
+      "J’adore L’Or (2023) de Dior é um perfume Floral Feminino. Esta é uma nova fragrância. J’adore L’Or (2023) foi lançada em 2023. O perfumista que assina esta fragrância é Francis Kurkdjian.",
+    acordes: "/perfumes/feminino/acordes/jadore-lor-acordes.png",
+    notas: "/perfumes/feminino/notas/jadore-lor-notas.png",
+  },
 ];
