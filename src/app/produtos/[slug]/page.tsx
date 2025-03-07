@@ -1,7 +1,7 @@
 "use client";
 import MenuBottom from "@/app/components/MenuBottom";
 import Image from "next/image";
-import { useParams, useSearchParams } from "next/navigation";
+import { notFound, useParams, useSearchParams } from "next/navigation";
 import {
   masculinos,
   femininos,
@@ -21,7 +21,7 @@ const Produtos = () => {
   }
 
   if (!perfume) {
-    return <div>Perfume not found</div>;
+    notFound();
   }
 
   return (
