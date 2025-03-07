@@ -22,7 +22,6 @@ export default function Produtos() {
   const [numeroIcon, setNumeroIcon] = useState("arrowDownWideNarrow");
   const [nomeIcon, setNomeIcon] = useState("chevronsUpDown");
   const [sortedPerfumes, setSortedPerfumes] = useState<IPerfumes[]>([]);
-  const [sortBy, setSortBy] = useState<"id" | "title">("id");
 
   function setIconsDefault(): void {
     setNomeIcon("chevronsUpDown");
@@ -110,7 +109,6 @@ export default function Produtos() {
       <div className="mt-3 flex">
         <button
           onClick={() => {
-            setSortBy("id");
             handleFilterIcon("id");
           }}
           className="color-inter flex justify-between text-white rounded-3xl p-3 py-2 mx-2 cursor-pointer"
@@ -120,7 +118,6 @@ export default function Produtos() {
         </button>
         <button
           onClick={() => {
-            setSortBy("title");
             handleFilterIcon("title");
           }}
           className="color-inter flex justify-between text-white rounded-3xl p-3 py-2 mx-2 cursor-pointer"
