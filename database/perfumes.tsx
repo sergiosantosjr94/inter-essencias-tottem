@@ -11,7 +11,7 @@ export interface IPerfumes {
 export const masculinos: IPerfumes[] = [
   {
     id: 1,
-    img: "/perfumes/masculinos/212-men-ch.png",
+    img: "/perfumes/masculinos/212-men.webp",
     title: "212 Men",
     brand: "Carolina Herrera",
     description:

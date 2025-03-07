@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import Image from "next/image";
 import { masculinos, femininos, IPerfumes } from "../../../database/perfumes";
 import MenuBottom from "../components/MenuBottom";
-import { useSearchParams, useRouter } from "next/navigation";
+import { useSearchParams, useRouter, notFound } from "next/navigation";
 import {
   ArrowDownWideNarrow,
   ArrowUpWideNarrow,
@@ -13,6 +13,10 @@ import {
 export default function Produtos() {
   const params = useSearchParams().get("cat");
   const router = useRouter();
+
+  if (params !== "masculino" && params !== "feminino") {
+    notFound();
+  }
 
   const [perfumes, setPerfumes] = useState<IPerfumes[]>([]);
   const [numeroIcon, setNumeroIcon] = useState("arrowDownWideNarrow");
