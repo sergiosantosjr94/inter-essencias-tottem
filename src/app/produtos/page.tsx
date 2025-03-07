@@ -113,7 +113,7 @@ export default function Produtos() {
           }}
           className="color-inter flex justify-between text-white rounded-3xl p-3 py-2 mx-2 cursor-pointer"
         >
-          Numero
+          Número
           <div className="ml-4">{numeroButtonIcon}</div>
         </button>
         <button

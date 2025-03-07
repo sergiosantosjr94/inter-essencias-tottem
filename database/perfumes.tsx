@@ -84,12 +84,12 @@ export const masculinos: IPerfumes[] = [
   {
     id: 8,
     img: "/perfumes/masculinos/bleu-masc.png",
-    title: "Azzaro For Men",
-    brand: "Azzaro",
+    title: "Bleu de Chanel",
+    brand: "Chanel",
     description:
       "Bleu de Chanel Eau de Parfum de Chanel é um perfume Amadeirado Aromático Masculino. Bleu de Chanel Eau de Parfum foi lançada em 2014. O perfumista que assina esta fragrância é Jacques Polge. As notas de topo são: Toranja, Limão, Hortelã, Bergamota, Pimenta Rosa, Aldeídos e Coentro. As notas de coração são: Gengibre, Noz-moscada, Jasmim e Melão. As notas de fundo são: Incenso, Âmbar, Cedro, Sândalo, Patchouli, Madeira de Âmbar e Ládano.",
     acordes: "/perfumes/masculinos/acordes/bleu-de-chanel-acordes.png",
-    notas: "/perfumes/masculinos/notas/bleu-de-chanel-acordes",
+    notas: "/perfumes/masculinos/notas/bleu-de-chanel-notas.png",
   },
   {
     id: 9,
@@ -664,8 +664,8 @@ export const masculinos: IPerfumes[] = [
   {
     id: 68,
     img: "/perfumes/masculinos/aventus.webp",
-    title: "Jazz",
-    brand: "Yves Saint Laurent",
+    title: "Aventus",
+    brand: "Creed",
     description:
       "Aventus de Creed é um perfume Chipre Frutado Masculino. Aventus foi lançada em 2010. Aventus foi criado por Jean-Christophe Hérault e Erwin Creed. As notas de topo são: Bergamota, Groselha Preta, Maçã, Limão e Pimenta Rosa. As notas de coração são: Abacaxi, Patchouli e Jasmim Marroquino. As notas de fundo são: Vidoeiro, Almíscar, Musgo de Carvalho, Ambroxan e Cedro.",
     acordes: "/perfumes/masculinos/acordes/aventus-acordes.png",
