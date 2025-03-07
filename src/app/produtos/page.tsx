@@ -29,6 +29,10 @@ export default function Produtos() {
     } else if (params === "feminino") {
       setPerfumes(femininos);
     }
+    setSortIcons({
+      id: "chevronsUpDown",
+      title: "chevronsUpDown",
+    });
   }, [params]);
 
   useEffect(() => {
