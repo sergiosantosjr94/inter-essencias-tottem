@@ -183,13 +183,13 @@ export const masculinos: IPerfumes[] = [
   },
   {
     id: 18,
-    img: "/perfumes/masculinos/ferrari-black.webp",
-    title: "Ferrari Black",
-    brand: "Scuderia Ferrari",
+    img: "/perfumes/masculinos/tiffany-for-him.webp",
+    title: "Tiffany & Love For Him Tiffany",
+    brand: "Tiffany & CO",
     description:
-      "Ferrari Black de Ferrari é um perfume Aromático Fougére Masculino. Ferrari Black foi lançada em 1999. As notas de topo são: Maçã Vermelha, Ameixa, Lima e Bergamota. As notas de coração são: Canela, Jasmim, Rosa e Cardamomo. As notas de fundo são: Baunilha, Âmbar, Cedro e Almíscar.",
-    acordes: "/perfumes/masculinos/acordes/ferrari-black-acordes.png",
-    notas: "/perfumes/masculinos/notas/ferrari-black-notas.png",
+      "Tiffany & Love For Him de Tiffany é um perfume Cítrico Aromático Masculino. Tiffany & Love For Him foi lançada em 2019. Tiffany & Love For Him foi criado por Sophie Labbe e Nicolas Beaulieu. As notas de topo são: Mandarina, Gengibre e Cardamomo. As notas de coração são: Cipreste e Zimbro. As notas de fundo são: Vetiver, Sequoia e Sândalo.",
+    acordes: "/perfumes/masculinos/acordes/tiffany-for-him-acordes.png",
+    notas: "/perfumes/masculinos/notas/tiffany-for-him-notas.png",
   },
   {
     id: 19,
