@@ -11,13 +11,13 @@ export interface IPerfumes {
 export const masculinos: IPerfumes[] = [
   {
     id: 1,
-    img: "/perfumes/masculinos/212-men.webp",
-    title: "212 Men",
-    brand: "Carolina Herrera",
+    img: "/perfumes/masculinos/montblanc.webp",
+    title: "Explorer",
+    brand: "MontBlanc",
     description:
-      "212 Men de Carolina Herrera é um perfume Amadeirado Floral Almiscarado Masculino. 212 Men foi lançada em 1999. 212 Men foi criado por Alberto Morillas, Rosendo Mateu e Ann Gottlieb. As notas de topo são: Notas Verdes, Toranja, Especiarias, Bergamota, Lavanda e Petitgrain. As notas de coração são: Gengibre, Violeta, Gardênia e Sálvia. As notas de fundo são: Almíscar, Sândalo, Incenso, Vetiver, Madeira Guaiac e Ládano.",
-    acordes: "/perfumes/masculinos/acordes/212-men-acordes.png",
-    notas: "/perfumes/masculinos/notas/212-men-notas.png",
+      "Explorer de Montblanc é um perfume Amadeirado Aromático Masculino. Explorer foi lançada em 2019. Explorer foi criado por Jórdi Fernandez, Antoine Maisondieu e Olivier Pescheux. As notas de topo são: Bergamota, Pimenta Rosa e Sálvia Esclaréia. As notas de coração são: Vetiver do Haiti e Couro. As notas de fundo são: Ambroxan, Akigalawood, Patchouli da Indonésia e Semente de Cacau.",
+    acordes: "/perfumes/masculinos/acordes/explorer-acordes.png",
+    notas: "/perfumes/masculinos/notas/explorer-notas.png",
   },
 
   {
@@ -483,13 +483,13 @@ export const masculinos: IPerfumes[] = [
   },
   {
     id: 49,
-    img: "/perfumes/masculinos/212-vip-black.webp",
-    title: "212 Vip Black",
-    brand: "Carolina Herrera",
+    img: "/perfumes/masculinos/myslf-le-parfum.webp",
+    title: "Myslf Le Parfum",
+    brand: "Yves Saint Laurent",
     description:
-      "212 VIP Black de Carolina Herrera é um perfume Aromático Fougére Masculino. 212 VIP Black foi lançada em 2017. 212 VIP Black foi criado por Carlos Benaïm e Anne Flipo. As notas de topo são: Absinto, Anis e Erva-Doce. A nota de coração é Lavanda. As notas de fundo são: Casca de Baunilha Negra e Almíscar.",
-    acordes: "/perfumes/masculinos/acordes/212-vip-black-acordes.png",
-    notas: "/perfumes/masculinos/notas/212-vip-black-notas.png",
+      "MYSLF Le Parfum de Yves Saint Laurent é um perfume Oriental Amadeirado Masculino. Esta é uma nova fragrância. MYSLF Le Parfum foi lançada em 2024. MYSLF Le Parfum foi criado por Daniela Andrier, Antoine Maisondieu e Christophe Raynaud. A nota de topo é Pimenta Preta. A nota de coração é Flor de Laranjeira. As notas de fundo são: Baunilha de Bourbon, Âmbar, Notas Amadeiradas e Patchouli.",
+    acordes: "/perfumes/masculinos/acordes/myslf-le-parfum-acordes.png",
+    notas: "/perfumes/masculinos/notas/myslf-le-parfum-notas.png",
   },
   {
     id: 50,
@@ -955,7 +955,7 @@ export const femininos: IPerfumes[] = [
     notas: "/perfumes/feminino/notas/burberry-her-notas.png",
   },
   {
-    id: 8,
+    id: 9,
     img: "/perfumes/feminino/candy.webp",
     title: "Candy",
     brand: "Prada",
@@ -965,7 +965,7 @@ export const femininos: IPerfumes[] = [
     notas: "/perfumes/feminino/notas/candy-notas.png",
   },
   {
-    id: 9,
+    id: 8,
     img: "/perfumes/feminino/angel.webp",
     title: "Angel",
     brand: "Thierry Mugler",
@@ -1857,8 +1857,8 @@ export const femininos: IPerfumes[] = [
   {
     id: 101,
     img: "/perfumes/feminino/jadore-lor.webp",
-    title: "Gucci Guilty",
-    brand: "Gucci",
+    title: "J’adore L’Or",
+    brand: "Christian Dior",
     description:
       "J’adore L’Or (2023) de Dior é um perfume Floral Feminino. Esta é uma nova fragrância. J’adore L’Or (2023) foi lançada em 2023. O perfumista que assina esta fragrância é Francis Kurkdjian.",
     acordes: "/perfumes/feminino/acordes/jadore-lor-acordes.png",

@@ -25,9 +25,9 @@ export default function Produtos() {
 
   useEffect(() => {
     if (params === "masculino") {
-      setPerfumes(masculinos);
+      setPerfumes(masculinos.sort((a, b) => a.id - b.id));
     } else if (params === "feminino") {
-      setPerfumes(femininos);
+      setPerfumes(femininos.sort((a, b) => a.id - b.id));
     }
     setSortIcons({
       id: "chevronsUpDown",
